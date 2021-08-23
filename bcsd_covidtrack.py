@@ -1,6 +1,12 @@
 from datetime import datetime
 
+from schools import schools
+
 from playwright.sync_api import Playwright, sync_playwright
+
+
+for school in schools:
+    print(school)
 
 
 def run(playwright: Playwright) -> None:
