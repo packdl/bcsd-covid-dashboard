@@ -1,12 +1,12 @@
 import csv
 from datetime import datetime
 
-from schools import schools, parseschooldata
-
 from playwright.sync_api import Playwright, sync_playwright
+from bs4 import BeautifulSoup
+
+from schools import get_schools, parseschooldata
 
 elem = {"Mount Holly Elementary": "MHE", "Berkeley County School District": "BCSD"}
-
 
 def run(playwright: Playwright) -> None:
     browser = playwright.chromium.launch(headless=False)
@@ -17,8 +17,11 @@ def run(playwright: Playwright) -> None:
 
     # Go to https://www.bcsdschools.net/Domain/8307
     page.goto("https://www.bcsdschools.net/Domain/8307")
+    
+    our_element = page.query_selector("#pmi-43630")
+    school_data = our_element.inner_html()
 
-    # Click input:has-text("Search")
+    schools = get_schools(school_data)
 
     rows = []
     for school in schools:
@@ -44,6 +47,8 @@ def run(playwright: Playwright) -> None:
     # ---------------------
     context.close()
     browser.close()
+
+
 
 
 with sync_playwright() as playwright:

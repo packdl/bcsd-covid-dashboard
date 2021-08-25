@@ -30,7 +30,20 @@ def parseschooldata(div: str) -> tuple:
     return output
 
 
+def get_schools(school_data):
+    schools = []
+    soup = BeautifulSoup(school_data.strip(), "html.parser")
+    school_select = soup.find("select", attrs={"id": "Value1_1"})
+
+    for option in school_select.children:
+        if option.name == "option":
+            school = option.attrs["value"]
+            schools.append(school)
+    return schools
+
+
 if __name__ == "__main__":
-    with open("output/div2.html", "r") as fp:
+    with open("output/div.html", "r") as fp:
         data = fp.read()
+        print(get_schools(data))
         # print(parseschooldata(data))
