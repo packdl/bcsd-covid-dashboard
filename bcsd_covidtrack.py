@@ -2,7 +2,6 @@ import csv
 from datetime import datetime
 
 from playwright.sync_api import Playwright, sync_playwright
-from bs4 import BeautifulSoup
 
 from schools import get_schools, parseschooldata
 
