@@ -8,6 +8,7 @@ schools = [
 
 
 def parseschooldata(div: str) -> tuple:
+    """Parse school data from div string"""
     output = []
 
     soup = BeautifulSoup(div.strip(), "html.parser")
@@ -31,6 +32,7 @@ def parseschooldata(div: str) -> tuple:
 
 
 def get_schools(school_data):
+    """Get school names from div string and return as a list."""
     schools = []
     soup = BeautifulSoup(school_data.strip(), "html.parser")
     school_select = soup.find("select", attrs={"id": "Value1_1"})
