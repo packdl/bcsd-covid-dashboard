@@ -5,7 +5,7 @@ from playwright.sync_api import Playwright, sync_playwright
 
 from schools import get_schools, parseschooldata
 
-elem = {"Mount Holly Elementary": "MHE", "Berkeley County School District": "BCSD"}
+elem = {"Mt Holly Elementary":"MHE","Mount Holly Elementary": "MHE", "Berkeley County School District": "BCSD"}
 
 def run(playwright: Playwright) -> None:
     browser = playwright.chromium.launch(headless=False)
