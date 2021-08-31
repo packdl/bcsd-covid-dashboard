@@ -2,3 +2,5 @@ playwright
 beautifulsoup4
 matplotlib
 pandas 
+ipywidgets
+ipympl
