@@ -3,8 +3,6 @@ name: scrap-bcsd-update-output
 on:
   schedule:
     - cron: "0 23 * * *"
-  workflow-dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
