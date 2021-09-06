@@ -33,10 +33,10 @@ def run(playwright: Playwright) -> None:
 
         # Screenshot school district info
         element_handle = page.query_selector("#pmi-43630")
-        if school in elem:
+        """if school in elem:
             element_handle.screenshot(
                 path=f"output/screenshot{elem[school]}{datetime.today()}.png"
-            )
+            )"""
         # Get html of target element and parse out and store data
         div = element_handle.inner_html()
         rows.append(parseschooldata(div))
