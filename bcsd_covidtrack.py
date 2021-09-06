@@ -8,7 +8,7 @@ from schools import get_schools, parseschooldata
 elem = {"Mt Holly Elementary":"MHE","Mount Holly Elementary": "MHE", "Berkeley County School District": "BCSD"}
 
 def run(playwright: Playwright) -> None:
-    browser = playwright.chromium.launch(headless=False)
+    browser = playwright.chromium.launch()
     context = browser.new_context()
 
     # Open new page
