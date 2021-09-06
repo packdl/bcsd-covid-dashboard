@@ -32,13 +32,13 @@ jobs:
           pip install -r requirements.txt
       - name: install Playwright
         run: |
-          playwright install
-      # - name: execute py script # run sj-gobierno.py to get the latest data
-      #   run: python bcsd_covidtrack.py
-      # - name: commit files
-      #   run: |
-      #     git config user.name github-actions
-      #     git config user.email github-actions@github.com
-      #     git add .
-      #     git commit -m "Scraped by Github actions on ${{ steps.date.outputs.date }}"
-      #     git push
+          playwright install chromium
+      - name: execute py script # run sj-gobierno.py to get the latest data
+        run: python bcsd_covidtrack.py
+      - name: commit files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Scraped by Github actions on ${{ steps.date.outputs.date }}"
+          git push
