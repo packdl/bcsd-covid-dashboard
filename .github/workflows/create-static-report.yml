@@ -1,4 +1,4 @@
-name: create-html-report
+name: create-static-report
 
 on:
   schedule:
@@ -31,8 +31,8 @@ jobs:
           pip install --upgrade -r requirements.txt
       - name: Run Jupyter Notebook
         run: |
-          jupyter nbconvert --to html --execute covid_maps_inline.ipynb
-          mv covid_maps_inline.html ./output/report.html
+          jupyter nbconvert --to notebook --execute --output report.ipynb covid_maps_inline.ipynb
+          mv report.ipynb ./output/report.ipynb
       - name: commit files
         run: |
           git config user.name github-actions
