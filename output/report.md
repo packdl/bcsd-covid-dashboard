@@ -13,7 +13,7 @@ This notebook provides various processing and infographics on COVID dashboard re
      'Bonner Elementary', 'Boulder Bluff Elementary', 'Bowens Corner Elementary', 'Cainhoy Elementary',
      'Cane Bay Elementary', 'Cane Bay High', 'Cane Bay Middle', 'Capital Improvements', 'Career Technical Ed', 'CDEP',
      'Child Nutrition', 'College Park Elementary', 'College Park Middle', 'Communications / Public Relations',
-     'Cross Elementary', 'Cross High', 'Daniel Island School', 'Dist Office Transportation', 'Evaluation & Leadership',
+     'Cross Elementary', 'Cross High', 'Daniel Island School', 'Dist Office Transportation', 'Evaluation &amp; Leadership',
      'Financial Services', 'First Steps', 'Foxbank Elementary', 'Goose Creek Elementary', 'Goose Creek High',
      'Hanahan Elementary', 'Hanahan High', 'Hanahan Middle', 'Head Start', 'Howe Hall Aims', 'Human Resources',
      'JK Goudin Elementary', 'Lowcountry Regional Stem', 'Macedonia Middle', 'Maintenance', 'Marrington Elementary',
@@ -39,78 +39,65 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>School</th>
-      <th>Date</th>
-      <th>Staff Count</th>
-      <th>Student Count</th>
-      <th>Staff Close Contacts</th>
-      <th>Student Close Contacts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>702</th>
-      <td>Berkeley Middle</td>
-      <td>2021-09-09</td>
-      <td>6</td>
-      <td>63</td>
-      <td>1.0</td>
-      <td>238.0</td>
-    </tr>
-    <tr>
-      <th>710</th>
-      <td>Cane Bay Middle</td>
-      <td>2021-09-09</td>
-      <td>2</td>
-      <td>63</td>
-      <td>4.0</td>
-      <td>272.0</td>
-    </tr>
-    <tr>
-      <th>740</th>
-      <td>Stratford High</td>
-      <td>2021-09-09</td>
-      <td>3</td>
-      <td>42</td>
-      <td>0.0</td>
-      <td>220.0</td>
-    </tr>
-    <tr>
-      <th>745</th>
-      <td>Whitesville Elementary</td>
-      <td>2021-09-09</td>
-      <td>8</td>
-      <td>42</td>
-      <td>2.0</td>
-      <td>111.0</td>
-    </tr>
-    <tr>
-      <th>700</th>
-      <td>Berkeley High School</td>
-      <td>2021-09-09</td>
-      <td>3</td>
-      <td>35</td>
-      <td>1.0</td>
-      <td>212.0</td>
-    </tr>
-  </tbody>
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>School</th>
+<th>Date</th>
+<th>Staff Count</th>
+<th>Student Count</th>
+<th>Staff Close Contacts</th>
+<th>Student Close Contacts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>702</th>
+<td>Berkeley Middle</td>
+<td>2021-09-09</td>
+<td>6</td>
+<td>63</td>
+<td>1.0</td>
+<td>238.0</td>
+</tr>
+<tr>
+<th>710</th>
+<td>Cane Bay Middle</td>
+<td>2021-09-09</td>
+<td>2</td>
+<td>63</td>
+<td>4.0</td>
+<td>272.0</td>
+</tr>
+<tr>
+<th>740</th>
+<td>Stratford High</td>
+<td>2021-09-09</td>
+<td>3</td>
+<td>42</td>
+<td>0.0</td>
+<td>220.0</td>
+</tr>
+<tr>
+<th>745</th>
+<td>Whitesville Elementary</td>
+<td>2021-09-09</td>
+<td>8</td>
+<td>42</td>
+<td>2.0</td>
+<td>111.0</td>
+</tr>
+<tr>
+<th>700</th>
+<td>Berkeley High School</td>
+<td>2021-09-09</td>
+<td>3</td>
+<td>35</td>
+<td>1.0</td>
+<td>212.0</td>
+</tr>
+</tbody>
 </table>
 </div>
 
@@ -122,78 +109,65 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>School</th>
-      <th>Date</th>
-      <th>Staff Count</th>
-      <th>Student Count</th>
-      <th>Staff Close Contacts</th>
-      <th>Student Close Contacts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>745</th>
-      <td>Whitesville Elementary</td>
-      <td>2021-09-09</td>
-      <td>8</td>
-      <td>42</td>
-      <td>2.0</td>
-      <td>111.0</td>
-    </tr>
-    <tr>
-      <th>730</th>
-      <td>Nexton Elementary</td>
-      <td>2021-09-09</td>
-      <td>7</td>
-      <td>25</td>
-      <td>1.0</td>
-      <td>77.0</td>
-    </tr>
-    <tr>
-      <th>702</th>
-      <td>Berkeley Middle</td>
-      <td>2021-09-09</td>
-      <td>6</td>
-      <td>63</td>
-      <td>1.0</td>
-      <td>238.0</td>
-    </tr>
-    <tr>
-      <th>734</th>
-      <td>Sangaree Elementary</td>
-      <td>2021-09-09</td>
-      <td>5</td>
-      <td>30</td>
-      <td>2.0</td>
-      <td>84.0</td>
-    </tr>
-    <tr>
-      <th>716</th>
-      <td>Devon Forest Elementary</td>
-      <td>2021-09-09</td>
-      <td>5</td>
-      <td>11</td>
-      <td>3.0</td>
-      <td>62.0</td>
-    </tr>
-  </tbody>
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>School</th>
+<th>Date</th>
+<th>Staff Count</th>
+<th>Student Count</th>
+<th>Staff Close Contacts</th>
+<th>Student Close Contacts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>745</th>
+<td>Whitesville Elementary</td>
+<td>2021-09-09</td>
+<td>8</td>
+<td>42</td>
+<td>2.0</td>
+<td>111.0</td>
+</tr>
+<tr>
+<th>730</th>
+<td>Nexton Elementary</td>
+<td>2021-09-09</td>
+<td>7</td>
+<td>25</td>
+<td>1.0</td>
+<td>77.0</td>
+</tr>
+<tr>
+<th>702</th>
+<td>Berkeley Middle</td>
+<td>2021-09-09</td>
+<td>6</td>
+<td>63</td>
+<td>1.0</td>
+<td>238.0</td>
+</tr>
+<tr>
+<th>734</th>
+<td>Sangaree Elementary</td>
+<td>2021-09-09</td>
+<td>5</td>
+<td>30</td>
+<td>2.0</td>
+<td>84.0</td>
+</tr>
+<tr>
+<th>716</th>
+<td>Devon Forest Elementary</td>
+<td>2021-09-09</td>
+<td>5</td>
+<td>11</td>
+<td>3.0</td>
+<td>62.0</td>
+</tr>
+</tbody>
 </table>
 </div>
 
@@ -207,78 +181,65 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>School</th>
-      <th>Date</th>
-      <th>Staff Count</th>
-      <th>Student Count</th>
-      <th>Staff Close Contacts</th>
-      <th>Student Close Contacts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>582</th>
-      <td>Stratford High</td>
-      <td>2021-09-03</td>
-      <td>6</td>
-      <td>116</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>545</th>
-      <td>Berkeley Middle</td>
-      <td>2021-09-03</td>
-      <td>7</td>
-      <td>104</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>553</th>
-      <td>Cane Bay Middle</td>
-      <td>2021-09-03</td>
-      <td>2</td>
-      <td>88</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>439</th>
-      <td>Berkeley High School</td>
-      <td>2021-09-01</td>
-      <td>2</td>
-      <td>78</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>500</th>
-      <td>Cane Bay High</td>
-      <td>2021-09-02</td>
-      <td>4</td>
-      <td>77</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-  </tbody>
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>School</th>
+<th>Date</th>
+<th>Staff Count</th>
+<th>Student Count</th>
+<th>Staff Close Contacts</th>
+<th>Student Close Contacts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>582</th>
+<td>Stratford High</td>
+<td>2021-09-03</td>
+<td>6</td>
+<td>116</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr>
+<th>545</th>
+<td>Berkeley Middle</td>
+<td>2021-09-03</td>
+<td>7</td>
+<td>104</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr>
+<th>553</th>
+<td>Cane Bay Middle</td>
+<td>2021-09-03</td>
+<td>2</td>
+<td>88</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr>
+<th>439</th>
+<td>Berkeley High School</td>
+<td>2021-09-01</td>
+<td>2</td>
+<td>78</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr>
+<th>500</th>
+<td>Cane Bay High</td>
+<td>2021-09-02</td>
+<td>4</td>
+<td>77</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+</tbody>
 </table>
 </div>
 
@@ -290,78 +251,65 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>School</th>
-      <th>Date</th>
-      <th>Staff Count</th>
-      <th>Student Count</th>
-      <th>Staff Close Contacts</th>
-      <th>Student Close Contacts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>577</th>
-      <td>Sangaree Elementary</td>
-      <td>2021-09-03</td>
-      <td>10</td>
-      <td>48</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>649</th>
-      <td>Berkeley Middle</td>
-      <td>2021-09-08</td>
-      <td>9</td>
-      <td>67</td>
-      <td>1.0</td>
-      <td>242.0</td>
-    </tr>
-    <tr>
-      <th>745</th>
-      <td>Whitesville Elementary</td>
-      <td>2021-09-09</td>
-      <td>8</td>
-      <td>42</td>
-      <td>2.0</td>
-      <td>111.0</td>
-    </tr>
-    <tr>
-      <th>29</th>
-      <td>Cane Bay High</td>
-      <td>2021-08-24</td>
-      <td>8</td>
-      <td>43</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>490</th>
-      <td>Berkeley Elementary</td>
-      <td>2021-09-02</td>
-      <td>8</td>
-      <td>32</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-  </tbody>
+<thead>
+<tr style="text-align: right;">
+<th></th>
+<th>School</th>
+<th>Date</th>
+<th>Staff Count</th>
+<th>Student Count</th>
+<th>Staff Close Contacts</th>
+<th>Student Close Contacts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>577</th>
+<td>Sangaree Elementary</td>
+<td>2021-09-03</td>
+<td>10</td>
+<td>48</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr>
+<th>649</th>
+<td>Berkeley Middle</td>
+<td>2021-09-08</td>
+<td>9</td>
+<td>67</td>
+<td>1.0</td>
+<td>242.0</td>
+</tr>
+<tr>
+<th>745</th>
+<td>Whitesville Elementary</td>
+<td>2021-09-09</td>
+<td>8</td>
+<td>42</td>
+<td>2.0</td>
+<td>111.0</td>
+</tr>
+<tr>
+<th>29</th>
+<td>Cane Bay High</td>
+<td>2021-08-24</td>
+<td>8</td>
+<td>43</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+<tr>
+<th>490</th>
+<td>Berkeley Elementary</td>
+<td>2021-09-02</td>
+<td>8</td>
+<td>32</td>
+<td>NaN</td>
+<td>NaN</td>
+</tr>
+</tbody>
 </table>
 </div>
 
