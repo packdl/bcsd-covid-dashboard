@@ -31,8 +31,9 @@ jobs:
           pip install --upgrade -r requirements.txt
       - name: Run Jupyter Notebook
         run: |
-          jupyter nbconvert --to notebook --execute --output report.ipynb covid_maps_inline.ipynb
-          mv report.ipynb ./output/report.ipynb
+          rm output/report.md
+          rm -rf output/report_files
+          jupyter nbconvert --output report --output-dir output --to markdown  --execute covid_maps_inline.ipynb -TagRemovePreprocessor.remove_input_tags="remove-input"
       - name: commit files
         run: |
           git config user.name github-actions
