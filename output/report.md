@@ -31,10 +31,6 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2021-09-10
-    Most recent date with data is 2021-09-09
-
-
 
 
 
@@ -53,49 +49,49 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>702</th>
+<th>763</th>
+<td>Cane Bay Middle</td>
+<td>2021-09-10</td>
+<td>2</td>
+<td>62</td>
+<td>4.0</td>
+<td>301.0</td>
+</tr>
+<tr>
+<th>755</th>
 <td>Berkeley Middle</td>
-<td>2021-09-09</td>
-<td>6</td>
-<td>63</td>
+<td>2021-09-10</td>
+<td>5</td>
+<td>57</td>
 <td>1.0</td>
 <td>238.0</td>
 </tr>
 <tr>
-<th>710</th>
-<td>Cane Bay Middle</td>
-<td>2021-09-09</td>
-<td>2</td>
-<td>63</td>
-<td>4.0</td>
-<td>272.0</td>
-</tr>
-<tr>
-<th>740</th>
+<th>793</th>
 <td>Stratford High</td>
-<td>2021-09-09</td>
+<td>2021-09-10</td>
 <td>3</td>
-<td>42</td>
+<td>43</td>
 <td>0.0</td>
-<td>220.0</td>
+<td>233.0</td>
 </tr>
 <tr>
-<th>745</th>
+<th>798</th>
 <td>Whitesville Elementary</td>
-<td>2021-09-09</td>
+<td>2021-09-10</td>
 <td>8</td>
 <td>42</td>
-<td>2.0</td>
-<td>111.0</td>
+<td>5.0</td>
+<td>133.0</td>
 </tr>
 <tr>
-<th>700</th>
+<th>753</th>
 <td>Berkeley High School</td>
-<td>2021-09-09</td>
-<td>3</td>
-<td>35</td>
+<td>2021-09-10</td>
+<td>5</td>
+<td>37</td>
 <td>1.0</td>
-<td>212.0</td>
+<td>200.0</td>
 </tr>
 </tbody>
 </table>
@@ -123,49 +119,49 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>745</th>
+<th>798</th>
 <td>Whitesville Elementary</td>
-<td>2021-09-09</td>
+<td>2021-09-10</td>
 <td>8</td>
 <td>42</td>
-<td>2.0</td>
-<td>111.0</td>
+<td>5.0</td>
+<td>133.0</td>
 </tr>
 <tr>
-<th>730</th>
+<th>783</th>
 <td>Nexton Elementary</td>
-<td>2021-09-09</td>
-<td>7</td>
-<td>25</td>
+<td>2021-09-10</td>
+<td>6</td>
+<td>28</td>
 <td>1.0</td>
 <td>77.0</td>
 </tr>
 <tr>
-<th>702</th>
-<td>Berkeley Middle</td>
-<td>2021-09-09</td>
-<td>6</td>
-<td>63</td>
-<td>1.0</td>
-<td>238.0</td>
-</tr>
-<tr>
-<th>734</th>
-<td>Sangaree Elementary</td>
-<td>2021-09-09</td>
-<td>5</td>
-<td>30</td>
-<td>2.0</td>
-<td>84.0</td>
-</tr>
-<tr>
-<th>716</th>
+<th>769</th>
 <td>Devon Forest Elementary</td>
-<td>2021-09-09</td>
+<td>2021-09-10</td>
 <td>5</td>
 <td>11</td>
 <td>3.0</td>
-<td>62.0</td>
+<td>59.0</td>
+</tr>
+<tr>
+<th>753</th>
+<td>Berkeley High School</td>
+<td>2021-09-10</td>
+<td>5</td>
+<td>37</td>
+<td>1.0</td>
+<td>200.0</td>
+</tr>
+<tr>
+<th>755</th>
+<td>Berkeley Middle</td>
+<td>2021-09-10</td>
+<td>5</td>
+<td>57</td>
+<td>1.0</td>
+<td>238.0</td>
 </tr>
 </tbody>
 </table>
@@ -319,9 +315,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ### BCSD - 14 Day Cumulative reported daily
 
+    On 2021-09-10 Student Count: 816. Staff Count: 83
     On 2021-09-09 Student Count: 851. Staff Count: 81
-    On 2021-09-08 Student Count: 836. Staff Count: 86
-    Difference between 2021-09-09 and 2021-09-08. Student Count: 15. Staff Count: -5
+    Difference between 2021-09-10 and 2021-09-09. Student Count: -35. Staff Count: 2
 
 
 
@@ -339,9 +335,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ### Mount Holly Elementary
 
+    On 2021-09-10 Student Count: 21. Staff Count: 2
     On 2021-09-09 Student Count: 25. Staff Count: 2
-    On 2021-09-08 Student Count: 25. Staff Count: 2
-    Difference between 2021-09-09 and 2021-09-08. Student Count: 0. Staff Count: 0
+    Difference between 2021-09-10 and 2021-09-09. Student Count: -4. Staff Count: 0
 
 
 
@@ -359,9 +355,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ### Bonner Elementary
 
+    On 2021-09-10 Student Count: 18. Staff Count: 4
     On 2021-09-09 Student Count: 20. Staff Count: 4
-    On 2021-09-08 Student Count: 17. Staff Count: 4
-    Difference between 2021-09-09 and 2021-09-08. Student Count: 3. Staff Count: 0
+    Difference between 2021-09-10 and 2021-09-09. Student Count: -2. Staff Count: 0
 
 
 
@@ -375,4 +371,12 @@ This notebook provides various processing and infographics on COVID dashboard re
     
 ![png](report_files/report_22_2.png)
     
+
+
+
+```python
+print(f'This file generated on {datetime.utcnow()} UTC')
+```
+
+    This file generated on 2021-09-10 23:46:41.674013 UTC
 
