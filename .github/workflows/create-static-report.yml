@@ -32,6 +32,7 @@ jobs:
       - name: Run Jupyter Notebook
         run: |
           jupyter nbconvert --output report --output-dir output --to markdown  --execute covid_maps_inline.ipynb -TagRemovePreprocessor.remove_input_tags="remove-input"
+          python clean_report.py
       - name: commit files
         run: |
           git config user.name github-actions
