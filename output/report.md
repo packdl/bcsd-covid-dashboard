@@ -31,6 +31,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2021-09-11
+    Most recent date with data is 2021-09-10
+
+
 
 
 
@@ -373,10 +377,25 @@ This notebook provides various processing and infographics on COVID dashboard re
     
 
 
+Sangaree Elementary
 
-```python
-print(f'This file generated on {datetime.utcnow()} UTC')
-```
+    On 2021-09-10 Student Count: 28. Staff Count: 4
+    On 2021-09-09 Student Count: 30. Staff Count: 5
+    Difference between 2021-09-10 and 2021-09-09. Student Count: -2. Staff Count: -1
 
-    This file generated on 2021-09-10 23:46:41.674013 UTC
+
+
+
+
+    []
+
+
+
+
+    
+![png](report_files/report_24_2.png)
+    
+
+
+    This file generated on 2021-09-11 02:27:46.431555 UTC
 
