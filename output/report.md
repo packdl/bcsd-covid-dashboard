@@ -31,7 +31,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2021-09-11
+    Data is not available for today: 2021-09-12
     Most recent date with data is 2021-09-10
 
 
@@ -53,7 +53,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>816</th>
+<th>869</th>
 <td>Cane Bay Middle</td>
 <td>2021-09-10</td>
 <td>2</td>
@@ -62,7 +62,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>301.0</td>
 </tr>
 <tr>
-<th>808</th>
+<th>861</th>
 <td>Berkeley Middle</td>
 <td>2021-09-10</td>
 <td>5</td>
@@ -71,7 +71,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>238.0</td>
 </tr>
 <tr>
-<th>846</th>
+<th>899</th>
 <td>Stratford High</td>
 <td>2021-09-10</td>
 <td>3</td>
@@ -80,7 +80,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>233.0</td>
 </tr>
 <tr>
-<th>851</th>
+<th>904</th>
 <td>Whitesville Elementary</td>
 <td>2021-09-10</td>
 <td>8</td>
@@ -89,7 +89,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>133.0</td>
 </tr>
 <tr>
-<th>806</th>
+<th>859</th>
 <td>Berkeley High School</td>
 <td>2021-09-10</td>
 <td>5</td>
@@ -123,7 +123,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>851</th>
+<th>904</th>
 <td>Whitesville Elementary</td>
 <td>2021-09-10</td>
 <td>8</td>
@@ -132,7 +132,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>133.0</td>
 </tr>
 <tr>
-<th>836</th>
+<th>889</th>
 <td>Nexton Elementary</td>
 <td>2021-09-10</td>
 <td>6</td>
@@ -141,7 +141,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>77.0</td>
 </tr>
 <tr>
-<th>822</th>
+<th>875</th>
 <td>Devon Forest Elementary</td>
 <td>2021-09-10</td>
 <td>5</td>
@@ -150,7 +150,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>59.0</td>
 </tr>
 <tr>
-<th>806</th>
+<th>859</th>
 <td>Berkeley High School</td>
 <td>2021-09-10</td>
 <td>5</td>
@@ -159,7 +159,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>200.0</td>
 </tr>
 <tr>
-<th>808</th>
+<th>861</th>
 <td>Berkeley Middle</td>
 <td>2021-09-10</td>
 <td>5</td>
@@ -397,5 +397,5 @@ Sangaree Elementary
     
 
 
-    This file generated on 2021-09-11 23:46:40.192879 UTC
+    This file generated on 2021-09-12 23:46:45.859516 UTC
 
