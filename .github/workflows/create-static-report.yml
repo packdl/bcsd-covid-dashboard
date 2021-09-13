@@ -2,7 +2,7 @@ name: create-static-report
 
 on:
   schedule:
-    - cron: "45 23 * * *"
+    - cron: "45 23 * * 1-5"
   workflow_dispatch:
 jobs:
   build:
