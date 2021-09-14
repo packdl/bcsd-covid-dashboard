@@ -31,6 +31,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2021-09-14
+    Most recent date with data is 2021-09-13
+
+
 
 
 
@@ -393,5 +397,5 @@ This notebook provides various processing and infographics on COVID dashboard re
     
 
 
-    This file generated on 2021-09-13 23:51:30.387173 UTC
+    This file generated on 2021-09-14 23:51:27.320276 UTC
 
