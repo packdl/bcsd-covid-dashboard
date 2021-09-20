@@ -31,11 +31,14 @@ def parseschooldata(div: str) -> tuple:
     return output
 
 
-def get_schools(school_data):
+def get_schools(school_data) -> list:
     """Get school names from div string and return as a list."""
     schools = []
     soup = BeautifulSoup(school_data.strip(), "html.parser")
     school_select = soup.find("select", attrs={"id": "Value1_1"})
+
+    if school_select is None:
+        return schools
 
     for option in school_select.children:
         if option.name == "option":
