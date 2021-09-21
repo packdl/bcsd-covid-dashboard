@@ -1,35 +1,47 @@
 # BCSD Infographic notebook
 This notebook provides various processing and infographics on COVID dashboard reporting for Berkeley County School District
 
-## Data imported and added to dataframe
-
 ## List all schools and areas the district is tracking
 
     The school district is tracking 85 schools, offices or departments.
     Here is the full list.
-    ['Berkeley County School District', 'Mount Holly Elementary', 'Academic Services', 'Administrative Services',
-     'Adult Education - Hanahan', 'Adult Education - Moncks Corner', 'Berkeley Alternative', 'Berkeley Elementary',
-     'Berkeley High School', 'Berkeley Intermediate', 'Berkeley Middle', 'Berkeley Middle College', 'Board of Education',
-     'Bonner Elementary', 'Boulder Bluff Elementary', 'Bowens Corner Elementary', 'Cainhoy Elementary',
-     'Cane Bay Elementary', 'Cane Bay High', 'Cane Bay Middle', 'Capital Improvements', 'Career Technical Ed', 'CDEP',
-     'Child Nutrition', 'College Park Elementary', 'College Park Middle', 'Communications / Public Relations',
-     'Cross Elementary', 'Cross High', 'Daniel Island School', 'Dist Office Transportation', 'Evaluation &amp; Leadership',
-     'Financial Services', 'First Steps', 'Foxbank Elementary', 'Goose Creek Elementary', 'Goose Creek High',
-     'Hanahan Elementary', 'Hanahan High', 'Hanahan Middle', 'Head Start', 'Howe Hall Aims', 'Human Resources',
-     'JK Goudin Elementary', 'Lowcountry Regional Stem', 'Macedonia Middle', 'Maintenance', 'Marrington Elementary',
-     'Marrington Middle', 'Nexton Elementary', 'Office of Diversity', 'Operations / Administration',
-     'Philip Simmons Elementary', 'Philip Simmons High', 'Philip Simmons Middle', 'Program Support', 'Safety and Security',
-     'Sangaree Elementary', 'Sangaree Intermediate', 'Sangaree Middle', 'Sedgefield Middle', 'Special Needs Transportation',
-     'Special Services', 'St. Stephen Elementary', 'St. Stephen Middle', 'Stratford High', 'Teacher Forum', 'Technology',
-     'Timberland High', 'Transportation - Cainhoy', 'Transportation - Cross', 'Transportation - Goose Creek',
-     'Transportation - Moncks Corner', 'Transportation - St. Stephen', 'Westview Elementary', 'Westview Middle',
-     'Westview Primary', 'Whitesville Elementary', 'Devon Forest Elementary', 'Central Offices', 'Transportation',
-     'Jk Goudin Elementary', 'St Stephen Elementary', 'St Stephen Middle', 'Fishburne Campus']
-
+    Academic Services                  Administrative Services            Adult Education - Hanahan       
+    Adult Education - Moncks Corner    Berkeley Alternative               Berkeley County School District 
+    Berkeley Elementary                Berkeley High School               Berkeley Intermediate           
+    Berkeley Middle                    Berkeley Middle College            Board of Education              
+    Bonner Elementary                  Boulder Bluff Elementary           Bowens Corner Elementary        
+    CDEP                               Cainhoy Elementary                 Cane Bay Elementary             
+    Cane Bay High                      Cane Bay Middle                    Capital Improvements            
+    Career Technical Ed                Central Offices                    Child Nutrition                 
+    College Park Elementary            College Park Middle                Communications / Public Relations
+    Cross Elementary                   Cross High                         Daniel Island School            
+    Devon Forest Elementary            Dist Office Transportation         Evaluation &amp; Leadership         
+    Financial Services                 First Steps                        Fishburne Campus                
+    Foxbank Elementary                 Goose Creek Elementary             Goose Creek High                
+    Hanahan Elementary                 Hanahan High                       Hanahan Middle                  
+    Head Start                         Howe Hall Aims                     Human Resources                 
+    JK Goudin Elementary               Jk Goudin Elementary               Lowcountry Regional Stem        
+    Macedonia Middle                   Maintenance                        Marrington Elementary           
+    Marrington Middle                  Mount Holly Elementary             Nexton Elementary               
+    Office of Diversity                Operations / Administration        Philip Simmons Elementary       
+    Philip Simmons High                Philip Simmons Middle              Program Support                 
+    Safety and Security                Sangaree Elementary                Sangaree Intermediate           
+    Sangaree Middle                    Sedgefield Middle                  Special Needs Transportation    
+    Special Services                   St Stephen Elementary              St Stephen Middle               
+    St. Stephen Elementary             St. Stephen Middle                 Stratford High                  
+    Teacher Forum                      Technology                         Timberland High                 
+    Transportation                     Transportation - Cainhoy           Transportation - Cross          
+    Transportation - Goose Creek       Transportation - Moncks Corner     Transportation - St. Stephen    
+    Westview Elementary                Westview Middle                    Westview Primary                
+    Whitesville Elementary             
 
 ## Top 5 Highest Schools Today
 
 ###  By Student Count
+
+    Data is not available for today: 2021-09-21
+    Most recent date with data is 2021-09-20
+
 
 
 
@@ -329,7 +341,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
     
-![png](report_files/report_18_2.png)
+![png](report_files/report_17_2.png)
     
 
 
@@ -349,7 +361,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
     
-![png](report_files/report_20_2.png)
+![png](report_files/report_19_2.png)
     
 
 
@@ -369,7 +381,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
     
-![png](report_files/report_22_2.png)
+![png](report_files/report_21_2.png)
     
 
 
@@ -389,9 +401,11 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 
     
-![png](report_files/report_24_2.png)
+![png](report_files/report_23_2.png)
     
 
 
-    This file generated on 2021-09-20 23:51:45.282284 UTC
+    This file generated on 2021-09-21 01:16:02.623280 UTC
+
+
 
