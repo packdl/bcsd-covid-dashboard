@@ -532,12 +532,12 @@ pillow==8.3.2 \
     --hash=sha256:fd4fd83aa912d7b89b4b4a1580d30e2a4242f3936882a3f433586e5ab97ed0d5 \
     --hash=sha256:feb5db446e96bfecfec078b943cc07744cc759893cef045aa8b8b6d6aaa8274e
     # via matplotlib
-playwright==1.14.1 \
-    --hash=sha256:0ed8ae65e8a6cfab285abc500e2e1335c1200836c91316bf49a2bef4e4a40a66 \
-    --hash=sha256:1fda94b06c62750915ac30f40fd5244a690a3f569a90f7d1cef92304f5d3dded \
-    --hash=sha256:41f158a850af1e0a2b1a666e42edf56569606ce8bf27a7338dcbbe76f1ef69c2 \
-    --hash=sha256:537d72d20bf3a5d9b29d695fa063b2371083a5d1d445a6e497fc65b94691564b \
-    --hash=sha256:fbf0413b31a016240bca070f9177bb4eb62fd00745f9df1b4f9fc39a0ba03b5b
+playwright==1.15.0 \
+    --hash=sha256:1d8b453ce22c985a1e2d30fa0d13e48311ba9f836615d186e11d466cd0792b3e \
+    --hash=sha256:324f3344ecc47fea739b34690572477bbd58724b6904af82bb9fcbaf277d56c8 \
+    --hash=sha256:5eb399aa610ca3fbfb28ad8687da6807ae33dd8446533495318f61728c5098f1 \
+    --hash=sha256:b2619003000c769fb028f5fd4465f5985c8a0865b8bace935896698843e9b747 \
+    --hash=sha256:f43966af36d5a757b0503b86447cbc269a5b63944a49de462d70c5df40b6821a
     # via -r requirements.in
 prometheus-client==0.11.0 \
     --hash=sha256:3a8baade6cb80bcfe43297e33e7623f3118d660d41387593758e2fb1ea173a86 \
@@ -734,11 +734,6 @@ traitlets==5.1.0 \
     #   nbconvert
     #   nbformat
     #   notebook
-typing-extensions==3.10.0.2 \
-    --hash=sha256:49f75d16ff11f1cd258e1b988ccff82a3ca5570217d7ad8c5f48205dd99a677e \
-    --hash=sha256:d8226d10bc02a29bcc81df19a26e56a9647f8b0a6d4a83924139f4a8b01f17b7 \
-    --hash=sha256:f1d25edafde516b146ecd0613dabcc61409817af4766fbbcfb8d1ad4ec441a34
-    # via playwright
 wcwidth==0.2.5 \
     --hash=sha256:beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784 \
     --hash=sha256:c4d647b99872929fdb7bdcaa4fbe7f01413ed3d98077df798530e5b04f116c83
