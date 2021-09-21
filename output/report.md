@@ -61,7 +61,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>1217</th>
+<th>1323</th>
 <td>Stratford High</td>
 <td>2021-09-20</td>
 <td>1</td>
@@ -70,7 +70,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>133.0</td>
 </tr>
 <tr>
-<th>1207</th>
+<th>1313</th>
 <td>Nexton Elementary</td>
 <td>2021-09-20</td>
 <td>0</td>
@@ -79,7 +79,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>45.0</td>
 </tr>
 <tr>
-<th>1177</th>
+<th>1283</th>
 <td>Berkeley High School</td>
 <td>2021-09-20</td>
 <td>3</td>
@@ -88,7 +88,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>111.0</td>
 </tr>
 <tr>
-<th>1187</th>
+<th>1293</th>
 <td>Cane Bay Middle</td>
 <td>2021-09-20</td>
 <td>0</td>
@@ -97,7 +97,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>91.0</td>
 </tr>
 <tr>
-<th>1186</th>
+<th>1292</th>
 <td>Cane Bay High</td>
 <td>2021-09-20</td>
 <td>0</td>
@@ -131,7 +131,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>1177</th>
+<th>1283</th>
 <td>Berkeley High School</td>
 <td>2021-09-20</td>
 <td>3</td>
@@ -140,7 +140,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>111.0</td>
 </tr>
 <tr>
-<th>1188</th>
+<th>1294</th>
 <td>College Park Elementary</td>
 <td>2021-09-20</td>
 <td>2</td>
@@ -149,7 +149,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>55.0</td>
 </tr>
 <tr>
-<th>1213</th>
+<th>1319</th>
 <td>Sangaree Middle</td>
 <td>2021-09-20</td>
 <td>2</td>
@@ -158,7 +158,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>53.0</td>
 </tr>
 <tr>
-<th>1198</th>
+<th>1304</th>
 <td>Hanahan Elementary</td>
 <td>2021-09-20</td>
 <td>2</td>
@@ -167,7 +167,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>34.0</td>
 </tr>
 <tr>
-<th>1197</th>
+<th>1303</th>
 <td>Goose Creek High</td>
 <td>2021-09-20</td>
 <td>2</td>
@@ -405,7 +405,7 @@ This notebook provides various processing and infographics on COVID dashboard re
     
 
 
-    This file generated on 2021-09-21 01:16:02.623280 UTC
+    This file generated on 2021-09-21 02:23:17.746298 UTC
 
 
 
