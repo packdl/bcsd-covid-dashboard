@@ -3,7 +3,7 @@ from datetime import datetime
 
 from playwright.sync_api import Playwright, sync_playwright
 
-from schools import get_schools, parseschooldata
+from schools import get_schools, parseschooldata, gettableheader
 
 elem = {"Mt Holly Elementary":"MHE","Mount Holly Elementary": "MHE", "Berkeley County School District": "BCSD"}
 
@@ -31,14 +31,15 @@ def run(playwright: Playwright) -> None:
         page.click('input:has-text("Search")')
         page.wait_for_timeout(1000)
 
-        # Screenshot school district info
+        # Save header if school is Berkeley County School District
         element_handle = page.query_selector("#pmi-43630")
-        """if school in elem:
-            element_handle.screenshot(
-                path=f"output/screenshot{elem[school]}{datetime.today()}.png"
-            )"""
+
         # Get html of target element and parse out and store data
         div = element_handle.inner_html()
+        if 'Berkeley County School District'.lower() in school.lower():
+            header = gettableheader(element_handle.inner_html())
+            with open("output/header.csv","a", newline="") as headerfile:
+                csv.writer(headerfile).writerow((datetime.now().date(),) + header)
         rows.append(parseschooldata(div))
 
     with open("output/data.csv", "a", newline="") as fp:

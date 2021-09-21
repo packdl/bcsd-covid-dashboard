@@ -35,3 +35,15 @@ def test_empty_string_getschools():
 def test_invalid_string_getschools():
     school_list = schools.get_schools("Hello World")
     assert len(school_list) == 0
+
+
+def test_getheaders():
+    with open("output/div2.html") as file:
+        data = file.read()
+        assert len(schools.gettableheader(data)) == 7
+        assert "Student Close Contacts" in schools.gettableheader(data)
+
+
+def test_getemptyheaders():
+    assert schools.gettableheader("") == tuple()
+    assert schools.gettableheader("random") == tuple()

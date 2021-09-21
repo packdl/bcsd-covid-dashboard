@@ -47,6 +47,18 @@ def get_schools(school_data) -> list:
     return schools
 
 
+def gettableheader(div: str) -> tuple:
+    output = []
+
+    soup = BeautifulSoup(div.strip(), "html.parser")
+    rows = soup.find_all("th")
+
+    for row in rows:
+        output.append(row.contents[0])
+    output = tuple(output)
+    return output
+
+
 if __name__ == "__main__":
     with open("output/div.html", "r") as fp:
         data = fp.read()
