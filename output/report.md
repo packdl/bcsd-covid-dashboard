@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2021-09-28
+    Most recent date with data is 2021-09-27
+
+
 
 
 
@@ -57,7 +61,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>1588</th>
+<th>1641</th>
 <td>Stratford High</td>
 <td>2021-09-27</td>
 <td>0</td>
@@ -66,7 +70,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>102.0</td>
 </tr>
 <tr>
-<th>1568</th>
+<th>1621</th>
 <td>Goose Creek High</td>
 <td>2021-09-27</td>
 <td>1</td>
@@ -75,7 +79,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>74.0</td>
 </tr>
 <tr>
-<th>1548</th>
+<th>1601</th>
 <td>Berkeley High School</td>
 <td>2021-09-27</td>
 <td>0</td>
@@ -84,7 +88,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>66.0</td>
 </tr>
 <tr>
-<th>1571</th>
+<th>1624</th>
 <td>Hanahan Middle</td>
 <td>2021-09-27</td>
 <td>0</td>
@@ -93,7 +97,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>30.0</td>
 </tr>
 <tr>
-<th>1556</th>
+<th>1609</th>
 <td>Cane Bay Elementary</td>
 <td>2021-09-27</td>
 <td>0</td>
@@ -127,7 +131,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>1558</th>
+<th>1611</th>
 <td>Cane Bay Middle</td>
 <td>2021-09-27</td>
 <td>2</td>
@@ -136,7 +140,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>24.0</td>
 </tr>
 <tr>
-<th>1582</th>
+<th>1635</th>
 <td>Sangaree Elementary</td>
 <td>2021-09-27</td>
 <td>2</td>
@@ -145,7 +149,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>26.0</td>
 </tr>
 <tr>
-<th>1559</th>
+<th>1612</th>
 <td>College Park Elementary</td>
 <td>2021-09-27</td>
 <td>2</td>
@@ -154,7 +158,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>44.0</td>
 </tr>
 <tr>
-<th>1593</th>
+<th>1646</th>
 <td>Whitesville Elementary</td>
 <td>2021-09-27</td>
 <td>2</td>
@@ -163,7 +167,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 <td>26.0</td>
 </tr>
 <tr>
-<th>1544</th>
+<th>1597</th>
 <td>Technology</td>
 <td>2021-09-27</td>
 <td>1</td>
@@ -401,7 +405,7 @@ This notebook provides various processing and infographics on COVID dashboard re
     
 
 
-    This file generated on 2021-09-27 23:51:28.604842 UTC
+    This file generated on 2021-09-28 23:51:25.158824 UTC
 
 
 
