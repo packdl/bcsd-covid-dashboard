@@ -39,10 +39,6 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2021-09-28
-    Most recent date with data is 2021-09-27
-
-
 
 
 
@@ -61,49 +57,49 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>1641</th>
+<th>1694</th>
 <td>Stratford High</td>
-<td>2021-09-27</td>
+<td>2021-09-29</td>
 <td>0</td>
-<td>18</td>
+<td>22</td>
 <td>0.0</td>
-<td>102.0</td>
+<td>95.0</td>
 </tr>
 <tr>
-<th>1621</th>
-<td>Goose Creek High</td>
-<td>2021-09-27</td>
-<td>1</td>
-<td>14</td>
-<td>0.0</td>
-<td>74.0</td>
-</tr>
-<tr>
-<th>1601</th>
-<td>Berkeley High School</td>
-<td>2021-09-27</td>
-<td>0</td>
-<td>11</td>
-<td>0.0</td>
-<td>66.0</td>
-</tr>
-<tr>
-<th>1624</th>
+<th>1677</th>
 <td>Hanahan Middle</td>
-<td>2021-09-27</td>
-<td>0</td>
+<td>2021-09-29</td>
+<td>1</td>
+<td>15</td>
+<td>0.0</td>
+<td>48.0</td>
+</tr>
+<tr>
+<th>1674</th>
+<td>Goose Creek High</td>
+<td>2021-09-29</td>
+<td>1</td>
+<td>13</td>
+<td>0.0</td>
+<td>89.0</td>
+</tr>
+<tr>
+<th>1663</th>
+<td>Cane Bay High</td>
+<td>2021-09-29</td>
+<td>2</td>
+<td>13</td>
+<td>1.0</td>
+<td>97.0</td>
+</tr>
+<tr>
+<th>1670</th>
+<td>Devon Forest Elementary</td>
+<td>2021-09-29</td>
+<td>1</td>
 <td>9</td>
 <td>0.0</td>
-<td>30.0</td>
-</tr>
-<tr>
-<th>1609</th>
-<td>Cane Bay Elementary</td>
-<td>2021-09-27</td>
-<td>0</td>
-<td>7</td>
-<td>0.0</td>
-<td>35.0</td>
+<td>21.0</td>
 </tr>
 </tbody>
 </table>
@@ -131,49 +127,49 @@ This notebook provides various processing and infographics on COVID dashboard re
 </thead>
 <tbody>
 <tr>
-<th>1611</th>
-<td>Cane Bay Middle</td>
-<td>2021-09-27</td>
+<th>1663</th>
+<td>Cane Bay High</td>
+<td>2021-09-29</td>
 <td>2</td>
-<td>4</td>
-<td>2.0</td>
-<td>24.0</td>
-</tr>
-<tr>
-<th>1635</th>
-<td>Sangaree Elementary</td>
-<td>2021-09-27</td>
-<td>2</td>
-<td>5</td>
+<td>13</td>
 <td>1.0</td>
-<td>26.0</td>
+<td>97.0</td>
 </tr>
 <tr>
-<th>1612</th>
-<td>College Park Elementary</td>
-<td>2021-09-27</td>
+<th>1682</th>
+<td>Marrington Middle</td>
+<td>2021-09-29</td>
+<td>2</td>
+<td>2</td>
+<td>1.0</td>
+<td>20.0</td>
+</tr>
+<tr>
+<th>1664</th>
+<td>Cane Bay Middle</td>
+<td>2021-09-29</td>
 <td>2</td>
 <td>6</td>
 <td>2.0</td>
-<td>44.0</td>
+<td>36.0</td>
 </tr>
 <tr>
-<th>1646</th>
+<th>1699</th>
 <td>Whitesville Elementary</td>
-<td>2021-09-27</td>
+<td>2021-09-29</td>
 <td>2</td>
 <td>3</td>
 <td>0.0</td>
-<td>26.0</td>
+<td>31.0</td>
 </tr>
 <tr>
-<th>1597</th>
-<td>Technology</td>
-<td>2021-09-27</td>
+<th>1673</th>
+<td>Goose Creek Elementary</td>
+<td>2021-09-29</td>
 <td>1</td>
-<td>0</td>
+<td>7</td>
 <td>0.0</td>
-<td>0.0</td>
+<td>50.0</td>
 </tr>
 </tbody>
 </table>
@@ -327,9 +323,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ### BCSD - 14 Day Cumulative reported daily
 
+    On 2021-09-29 Student Count: 180. Staff Count: 21
     On 2021-09-27 Student Count: 172. Staff Count: 15
-    On 2021-09-24 Student Count: 230. Staff Count: 17
-    Difference between 2021-09-27 and 2021-09-24. Student Count: -58. Staff Count: -2
+    Difference between 2021-09-29 and 2021-09-27. Student Count: 8. Staff Count: 6
 
 
 
@@ -347,9 +343,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ### Mount Holly Elementary
 
+    On 2021-09-29 Student Count: 5. Staff Count: 0
     On 2021-09-27 Student Count: 5. Staff Count: 0
-    On 2021-09-24 Student Count: 6. Staff Count: 0
-    Difference between 2021-09-27 and 2021-09-24. Student Count: -1. Staff Count: 0
+    Difference between 2021-09-29 and 2021-09-27. Student Count: 0. Staff Count: 0
 
 
 
@@ -367,9 +363,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ### Bonner Elementary
 
+    On 2021-09-29 Student Count: 0. Staff Count: 0
     On 2021-09-27 Student Count: 2. Staff Count: 0
-    On 2021-09-24 Student Count: 3. Staff Count: 0
-    Difference between 2021-09-27 and 2021-09-24. Student Count: -1. Staff Count: 0
+    Difference between 2021-09-29 and 2021-09-27. Student Count: -2. Staff Count: 0
 
 
 
@@ -387,9 +383,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ### Sangaree Elementary
 
+    On 2021-09-29 Student Count: 3. Staff Count: 1
     On 2021-09-27 Student Count: 5. Staff Count: 2
-    On 2021-09-24 Student Count: 7. Staff Count: 2
-    Difference between 2021-09-27 and 2021-09-24. Student Count: -2. Staff Count: 0
+    Difference between 2021-09-29 and 2021-09-27. Student Count: -2. Staff Count: -1
 
 
 
@@ -405,7 +401,7 @@ This notebook provides various processing and infographics on COVID dashboard re
     
 
 
-    This file generated on 2021-09-28 23:51:25.158824 UTC
+    This file generated on 2021-09-29 23:51:19.196810 UTC
 
 
 
