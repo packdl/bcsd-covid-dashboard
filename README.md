@@ -12,6 +12,7 @@ The report identifies a number of items including:
 - Top 5 Schools by Staff Count for current date
 - Top 5 Schools by Student Count for all time
 - Top 5 Schools by Staff Count for all time
+- A graphic showing student/staff count for each school
 
 # Our Data
 - [Raw data](output/data.csv). This is a comma separated values (csv) file created by scraping the official BCSD Covid Dashboard on a daily basis and storing the updated information for all tracked areas in one file. It may not display correctly in Github do to changes in the format of data over time. Originally the school district only tracked **School, Area, Date, Staff Count, Student Count, Datetime**. After the first two weeks of school, they altered they website to track **School, Date, Staff Count, Student Count, Staff Close Contacts, Student Close Contacts and Datetime**. The raw data file stores the captured data no matter the changed data types from the official website. It may also have duplicate records from runs taking place more than once on the same day.
