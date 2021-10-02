@@ -9,7 +9,7 @@ Berkeley County School District maintains an official [COVID Dashboard](https://
 # Usage
 We have automated the [report](output/report.md) creation using Python and Github actions. The Report and Data sections of this page give more information about the stock report and the data that has been collected. If you have knowledge of the Python programming language, you can customize one of the notebooks in the repository to answer your own specific questions.
 
-The easiest way to get our notebooks up and running is to use MyBinder. Click the badge to launch it. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/packdl/bcsd-covid-dashboard/HEAD) Once inside binder, run this notebook: [covid_maps_inline.ipynb](covid_maps_inline.ipynb)
+The easiest way to get our notebooks up and running is to use MyBinder. Click the badge to launch it. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/packdl/bcsd-covid-dashboard/HEAD?labpath=covid_maps_inline.ipynb) Binder should open to this notebook: [covid_maps_inline.ipynb](covid_maps_inline.ipynb)
 
 # Our Report
 A [report](output/report.md) is generated Monday through Friday at 8pm with the addition of the current day's data. 
