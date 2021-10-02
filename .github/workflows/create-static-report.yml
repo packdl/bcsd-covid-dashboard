@@ -1,4 +1,4 @@
-name: create-static-report
+name: create static report
 
 on:
   schedule:

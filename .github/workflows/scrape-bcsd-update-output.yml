@@ -1,4 +1,4 @@
-name: scrap-bcsd-update-output
+name: scrape website and update data.csv
 
 on:
   schedule:
