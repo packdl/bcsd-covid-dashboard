@@ -2,6 +2,7 @@
 Berkeley County School District maintains an official [COVID Dashboard](https://www.bcsdschools.net/Domain/8307). The South Carolina Department of Health and Environmental Control maintains a [web page](https://scdhec.gov/covid19/covid-19-data/covid-19-cases-associated-staff-students) reporting on students & staff at schools across the state of South Carolina. This repository captures data daily from the BCSD Covid Dashboard and creates an aggregated [report](output/report.md) with graphics.
 
 # Status
+![Tests](https://github.com/packdl/bcsd-covid-dashboard/actions/workflows/python-app.yml/badge.svg)
 ![Web Scraper](https://github.com/packdl/bcsd-covid-dashboard/actions/workflows/scrape-bcsd-update-output.yml/badge.svg)
 ![Report Creation](https://github.com/packdl/bcsd-covid-dashboard/actions/workflows/create-static-report.yml/badge.svg)
 
