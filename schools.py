@@ -1,11 +1,6 @@
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString, Tag
 
-schools = [
-    "Berkeley County School District",
-    "Mount Holly Elementary",
-]
-
 
 def parseschooldata(div: str) -> tuple:
     """Parse school data from div string"""
