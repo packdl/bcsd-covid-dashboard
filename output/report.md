@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2021-10-13
+    Most recent date with data is 2021-10-12
+
+
 
 | School                  | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -685,5 +689,5 @@ On 2021-10-11 Student Count: 2. Staff Count: 0
 Difference between 2021-10-12 and 2021-10-11. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2021-10-12 23:51:54.162335 UTC
+    This file generated on 2021-10-13 23:52:43.750842 UTC
 
