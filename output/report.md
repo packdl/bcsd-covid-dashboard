@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2021-10-22
+    Most recent date with data is 2021-10-21
+
+
 
 | School                   | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -46,7 +50,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 | Devon Forest Elementary  | 2021-10-21 00:00:00 |             2 |               7 |                      0 |                       10 |
 | Bowens Corner Elementary | 2021-10-21 00:00:00 |             0 |               4 |                      0 |                        1 |
 | Berkeley Middle          | 2021-10-21 00:00:00 |             0 |               3 |                      0 |                        0 |
-| Cane Bay High            | 2021-10-21 00:00:00 |             0 |               2 |                      1 |                       12 |
+| Hanahan High             | 2021-10-21 00:00:00 |             0 |               2 |                      0 |                       10 |
 
 
 ### By Staff Count
@@ -58,7 +62,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 | College Park Elementary | 2021-10-21 00:00:00 |             2 |               2 |                      0 |                       47 |
 | Westview Primary        | 2021-10-21 00:00:00 |             1 |               0 |                      1 |                       16 |
 | Transportation          | 2021-10-21 00:00:00 |             1 |               0 |                      1 |                        0 |
-| Bonner Elementary       | 2021-10-21 00:00:00 |             1 |               0 |                      0 |                        2 |
+| Sangaree Middle         | 2021-10-21 00:00:00 |             1 |               2 |                      0 |                        3 |
 
 
 ## Top 5 Highest Schools All Time
@@ -685,5 +689,5 @@ On 2021-10-19 Student Count: 1. Staff Count: 0
 Difference between 2021-10-21 and 2021-10-19. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2021-10-21 23:51:35.409284 UTC
+    This file generated on 2021-10-22 23:51:53.730451 UTC
 
