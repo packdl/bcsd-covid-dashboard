@@ -39,7 +39,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2021-11-23
+    Data is not available for today: 2021-11-24
     Most recent date with data is 2021-11-22
 
 
@@ -47,10 +47,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 | School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Daniel Island School   | 2021-11-22 00:00:00 |             1 |              14 |                      0 |                       61 |
+| Goose Creek Elementary | 2021-11-22 00:00:00 |             0 |               2 |                      0 |                        5 |
 | Timberland High        | 2021-11-22 00:00:00 |             0 |               2 |                      0 |                        6 |
 | Philip Simmons High    | 2021-11-22 00:00:00 |             0 |               2 |                      0 |                        9 |
 | Hanahan Elementary     | 2021-11-22 00:00:00 |             0 |               2 |                      0 |                       13 |
-| Goose Creek Elementary | 2021-11-22 00:00:00 |             0 |               2 |                      0 |                        5 |
 
 
 ### By Staff Count
@@ -689,5 +689,5 @@ On 2021-11-19 Student Count: 1. Staff Count: 0
 Difference between 2021-11-22 and 2021-11-19. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2021-11-23 23:51:56.123387 UTC
+    This file generated on 2021-11-24 23:51:43.708545 UTC
 
