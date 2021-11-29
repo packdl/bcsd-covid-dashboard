@@ -39,7 +39,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2021-11-26
+    Data is not available for today: 2021-11-29
     Most recent date with data is 2021-11-22
 
 
@@ -56,13 +56,13 @@ This notebook provides various processing and infographics on COVID dashboard re
 ### By Staff Count
 
 
-| School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Daniel Island School | 2021-11-22 00:00:00 |             1 |              14 |                      0 |                       61 |
-| Philip Simmons High  | 2021-11-22 00:00:00 |             0 |               2 |                      0 |                        9 |
-| Hanahan High         | 2021-11-22 00:00:00 |             0 |               1 |                      0 |                        1 |
-| Hanahan Middle       | 2021-11-22 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Howe Hall Aims       | 2021-11-22 00:00:00 |             0 |               0 |                      0 |                        0 |
+| School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Daniel Island School      | 2021-11-22 00:00:00 |             1 |              14 |                      0 |                       61 |
+| Cane Bay High             | 2021-11-22 00:00:00 |             0 |               1 |                      0 |                        5 |
+| Philip Simmons Elementary | 2021-11-22 00:00:00 |             0 |               0 |                      0 |                        3 |
+| Hanahan Elementary        | 2021-11-22 00:00:00 |             0 |               2 |                      0 |                       13 |
+| Hanahan High              | 2021-11-22 00:00:00 |             0 |               1 |                      0 |                        1 |
 
 
 ## Top 5 Highest Schools All Time
@@ -689,5 +689,5 @@ On 2021-11-19 Student Count: 1. Staff Count: 0
 Difference between 2021-11-22 and 2021-11-19. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2021-11-26 23:51:46.207185 UTC
+    This file generated on 2021-11-29 23:51:50.694277 UTC
 
