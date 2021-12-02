@@ -182,10 +182,6 @@ greenlet==1.1.2 \
     --hash=sha256:fa877ca7f6b48054f847b61d6fa7bed5cebb663ebc55e018fda12db09dcc664c \
     --hash=sha256:fdcec0b8399108577ec290f55551d926d9a1fa6cad45882093a7a07ac5ec147b
     # via playwright
-importlib-resources==5.4.0 \
-    --hash=sha256:33a95faed5fc19b4bc16b29a6eeae248a3fe69dd55d4d229d2b480e23eeaad45 \
-    --hash=sha256:d756e2f85dd4de2ba89be0b21dba2a3bbec2e871a42a3a16719258a11f87506b
-    # via jsonschema
 ipykernel==6.6.0 \
     --hash=sha256:3a227788216b43982d9ac28195949467627b0d16e6b8af9741d95dcaa8c41a89 \
     --hash=sha256:82ded8919fa7f5483be2b6219c3b13380d93faab1fc49cc2cfcd10e9e24cc158
@@ -572,14 +568,14 @@ pillow==8.4.0 \
     --hash=sha256:e3dacecfbeec9a33e932f00c6cd7996e62f53ad46fbe677577394aaa90ee419a \
     --hash=sha256:eb9fc393f3c61f9054e1ed26e6fe912c7321af2f41ff49d3f83d05bacf22cc78
     # via matplotlib
-playwright==1.17.1 \
-    --hash=sha256:2196dc65d263a8efccedbbe584d6b46d45b8cfa08eeaefbea4378628b1f796a7 \
-    --hash=sha256:2301bf64a0ba4ffb2ccf89ce973983290b44ce9a0102d9695d317eee01021154 \
-    --hash=sha256:362e8db85bc23e6ae576183bca98fcf1a7ac1c32d0b774fe437cc087a400ae0a \
-    --hash=sha256:41bbcacf6aca27eee0bc89dd3faa1e0f7e72ee6dc4036eb8af89c81f4848dd25 \
-    --hash=sha256:5d87b9a9c0a20de66f52142231cdadad4fc88ce6c6ee213107374ce063362976 \
-    --hash=sha256:a8ca9e0e4ea4af07299c0743f87c23e04f989bba37f5ae141bdaa40e720c8b1a \
-    --hash=sha256:b4b817a7bae14a99a3e43a9eba706d164ae5f6f48c18f3ebb6dfc09790669f07
+playwright==1.17.2 \
+    --hash=sha256:0164ba36a0eab00217ae548961bba92e2c67186f6b6ac43c2240c86663de6fa1 \
+    --hash=sha256:404135562a8f49f29174073a4d6af6dc12021db256c01b4a983cce9438c203c6 \
+    --hash=sha256:8fefe383ba1baf474534c6fc2338113318725c420639bdbe1a57a371c20245b3 \
+    --hash=sha256:9dcdb31f73fccbf8f23f90ac0c18cefaabe05ef78fe9861771b460aa312f4bc9 \
+    --hash=sha256:b2ad61a2ba78149a2f32d18926c045e68782d5dc0e7250e7ce43643da142cc64 \
+    --hash=sha256:c78cc49ad970ddcec442aef70517aedc2196c5ef416c67f3e8fbbd1bd0ddfb64 \
+    --hash=sha256:f64403941e0d6bfcc92d451150bbdb4d8eefdaa0c26866c27304106f86923d60
     # via -r requirements.in
 prometheus-client==0.12.0 \
     --hash=sha256:1b12ba48cee33b9b0b9de64a1047cbd3c5f2d0ab6ebcead7ddda613a750ec3c5 \
@@ -796,10 +792,6 @@ traitlets==5.1.1 \
     #   nbconvert
     #   nbformat
     #   notebook
-typing-extensions==4.0.1 \
-    --hash=sha256:4ca091dea149f945ec56afb48dae714f21e8692ef22a395223bcd328961b6a0e \
-    --hash=sha256:7f001e5ac290a0c0401508864c7ec868be4e701886d5b573a9528ed3973d9d3b
-    # via playwright
 wcwidth==0.2.5 \
     --hash=sha256:beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784 \
     --hash=sha256:c4d647b99872929fdb7bdcaa4fbe7f01413ed3d98077df798530e5b04f116c83
@@ -862,10 +854,6 @@ widgetsnbextension==3.5.2 \
     --hash=sha256:763a9fdc836d141fa080005a886d63f66f73d56dba1fb5961afc239c77708569 \
     --hash=sha256:e0731a60ba540cd19bbbefe771a9076dcd2dde90713a8f87f27f53f2d1db7727
     # via ipywidgets
-zipp==3.6.0 \
-    --hash=sha256:71c644c5369f4a6e07636f0aa966270449561fcea2e3d6747b8d23efaa9d7832 \
-    --hash=sha256:9fe5ea21568a0a70e50f273397638d39b03353731e6cbbb3fd8502a33fec40bc
-    # via importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==59.4.0 \
