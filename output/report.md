@@ -39,26 +39,30 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2021-12-07
+    Most recent date with data is 2021-12-06
+
+
 
 | School                  | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Daniel Island School    | 2021-12-06 00:00:00 |             2 |               6 |                      0 |                       12 |
 | College Park Elementary | 2021-12-06 00:00:00 |             0 |               5 |                      1 |                        0 |
-| Cane Bay Middle         | 2021-12-06 00:00:00 |             0 |               3 |                      0 |                       20 |
 | Stratford High          | 2021-12-06 00:00:00 |             0 |               3 |                      0 |                        2 |
 | Sangaree Elementary     | 2021-12-06 00:00:00 |             0 |               3 |                      0 |                       21 |
+| Cane Bay Middle         | 2021-12-06 00:00:00 |             0 |               3 |                      0 |                       20 |
 
 
 ### By Staff Count
 
 
-| School                | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Cane Bay Elementary   | 2021-12-06 00:00:00 |             2 |               2 |                      0 |                       22 |
-| Marrington Elementary | 2021-12-06 00:00:00 |             2 |               0 |                      0 |                        5 |
-| Daniel Island School  | 2021-12-06 00:00:00 |             2 |               6 |                      0 |                       12 |
-| Goose Creek High      | 2021-12-06 00:00:00 |             2 |               1 |                      0 |                        5 |
-| Westview Primary      | 2021-12-06 00:00:00 |             1 |               1 |                      0 |                       13 |
+| School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Cane Bay Elementary    | 2021-12-06 00:00:00 |             2 |               2 |                      0 |                       22 |
+| Marrington Elementary  | 2021-12-06 00:00:00 |             2 |               0 |                      0 |                        5 |
+| Daniel Island School   | 2021-12-06 00:00:00 |             2 |               6 |                      0 |                       12 |
+| Goose Creek High       | 2021-12-06 00:00:00 |             2 |               1 |                      0 |                        5 |
+| Mount Holly Elementary | 2021-12-06 00:00:00 |             1 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -162,9 +166,9 @@ Difference between 2021-12-06 and 2021-12-02. Student Count: 0. Staff Count: 0
 
 
 ### [Berkeley Middle College](graphics/10.png)
+On 2021-12-06 Student Count: 0. Staff Count: 0  
 On 2021-12-02 Student Count: 0. Staff Count: 0  
-On 2021-12-01 Student Count: 0. Staff Count: 0  
-Difference between 2021-12-02 and 2021-12-01. Student Count: 0. Staff Count: 0
+Difference between 2021-12-06 and 2021-12-02. Student Count: 0. Staff Count: 0
 
 
 
@@ -685,5 +689,5 @@ On 2021-12-02 Student Count: 0. Staff Count: 0
 Difference between 2021-12-06 and 2021-12-02. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2021-12-06 23:51:42.747513 UTC
+    This file generated on 2021-12-07 23:51:30.557043 UTC
 
