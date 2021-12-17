@@ -39,26 +39,30 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2021-12-17
+    Most recent date with data is 2021-12-16
 
-| School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Cane Bay Elementary  | 2021-12-16 00:00:00 |             4 |               7 |                      0 |                       61 |
-| Cane Bay Middle      | 2021-12-16 00:00:00 |             2 |               5 |                      0 |                       35 |
-| Daniel Island School | 2021-12-16 00:00:00 |             0 |               4 |                      0 |                       17 |
-| Bonner Elementary    | 2021-12-16 00:00:00 |             0 |               3 |                      0 |                        6 |
-| Sangaree Middle      | 2021-12-16 00:00:00 |             1 |               2 |                      1 |                       28 |
-
-
-### By Staff Count
 
 
 | School                | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Cane Bay Elementary   | 2021-12-16 00:00:00 |             4 |               7 |                      0 |                       61 |
-| Marrington Elementary | 2021-12-16 00:00:00 |             2 |               2 |                      0 |                       10 |
 | Cane Bay Middle       | 2021-12-16 00:00:00 |             2 |               5 |                      0 |                       35 |
-| Sangaree Middle       | 2021-12-16 00:00:00 |             1 |               2 |                      1 |                       28 |
-| Sangaree Intermediate | 2021-12-16 00:00:00 |             1 |               1 |                      0 |                        2 |
+| Daniel Island School  | 2021-12-16 00:00:00 |             0 |               4 |                      0 |                       17 |
+| Bonner Elementary     | 2021-12-16 00:00:00 |             0 |               3 |                      0 |                        6 |
+| Berkeley Intermediate | 2021-12-16 00:00:00 |             0 |               2 |                      0 |                        1 |
+
+
+### By Staff Count
+
+
+| School                   | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:-------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Cane Bay Elementary      | 2021-12-16 00:00:00 |             4 |               7 |                      0 |                       61 |
+| Cane Bay Middle          | 2021-12-16 00:00:00 |             2 |               5 |                      0 |                       35 |
+| Marrington Elementary    | 2021-12-16 00:00:00 |             2 |               2 |                      0 |                       10 |
+| College Park Elementary  | 2021-12-16 00:00:00 |             1 |               0 |                      0 |                        4 |
+| Boulder Bluff Elementary | 2021-12-16 00:00:00 |             1 |               2 |                      0 |                       25 |
 
 
 ## Top 5 Highest Schools All Time
@@ -685,5 +689,5 @@ On 2021-12-15 Student Count: 1. Staff Count: 0
 Difference between 2021-12-16 and 2021-12-15. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2021-12-16 23:51:37.467838 UTC
+    This file generated on 2021-12-17 23:51:35.128809 UTC
 
