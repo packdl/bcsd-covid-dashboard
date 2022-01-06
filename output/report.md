@@ -42,11 +42,11 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 | School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Cane Bay High        | 2022-01-05 00:00:00 |             3 |              34 |                      3 |                       49 |
-| Cane Bay Middle      | 2022-01-05 00:00:00 |             9 |              21 |                      3 |                       28 |
-| Stratford High       | 2022-01-05 00:00:00 |             4 |              17 |                      0 |                       22 |
-| Berkeley High School | 2022-01-05 00:00:00 |             7 |              16 |                      0 |                       25 |
-| Hanahan Elementary   | 2022-01-05 00:00:00 |             0 |              13 |                      0 |                       15 |
+| Cane Bay High        | 2022-01-06 00:00:00 |             3 |              43 |                      3 |                       62 |
+| Berkeley High School | 2022-01-06 00:00:00 |             7 |              25 |                      0 |                       36 |
+| Stratford High       | 2022-01-06 00:00:00 |             3 |              23 |                      1 |                       38 |
+| Hanahan Elementary   | 2022-01-06 00:00:00 |             3 |              20 |                      1 |                       19 |
+| Sedgefield Middle    | 2022-01-06 00:00:00 |             0 |              15 |                      0 |                       20 |
 
 
 ### By Staff Count
@@ -54,11 +54,11 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 | School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Cane Bay Middle           | 2022-01-05 00:00:00 |             9 |              21 |                      3 |                       28 |
-| Berkeley High School      | 2022-01-05 00:00:00 |             7 |              16 |                      0 |                       25 |
-| Goose Creek High          | 2022-01-05 00:00:00 |             6 |              10 |                      0 |                       22 |
-| Whitesville Elementary    | 2022-01-05 00:00:00 |             5 |               2 |                      1 |                        3 |
-| Philip Simmons Elementary | 2022-01-05 00:00:00 |             4 |               7 |                      0 |                        6 |
+| Goose Creek High          | 2022-01-06 00:00:00 |            10 |              13 |                      0 |                       36 |
+| Berkeley High School      | 2022-01-06 00:00:00 |             7 |              25 |                      0 |                       36 |
+| Whitesville Elementary    | 2022-01-06 00:00:00 |             5 |              11 |                      1 |                       20 |
+| Philip Simmons Elementary | 2022-01-06 00:00:00 |             4 |              11 |                      0 |                       16 |
+| Berkeley Elementary       | 2022-01-06 00:00:00 |             4 |               7 |                      1 |                        6 |
 
 
 ## Top 5 Highest Schools All Time
@@ -81,10 +81,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 | School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Sangaree Elementary    | 2021-09-03 00:00:00 |            10 |              48 |                    nan |                      nan |
+| Goose Creek High       | 2022-01-06 00:00:00 |            10 |              13 |                      0 |                       36 |
 | Cane Bay Middle        | 2022-01-04 00:00:00 |             9 |              16 |                      3 |                       22 |
 | Berkeley Middle        | 2021-09-08 00:00:00 |             9 |              67 |                      1 |                      242 |
 | Whitesville Elementary | 2021-09-09 00:00:00 |             8 |              42 |                      2 |                      111 |
-| Cane Bay High          | 2021-08-24 00:00:00 |             8 |              43 |                    nan |                      nan |
 
 
 ## Graphs
@@ -92,9 +92,9 @@ A link is provided for each school or office in the school district. The link co
 
 
 ### [Berkeley County School District](graphics/0.png)
+On 2022-01-06 Student Count: 384. Staff Count: 87  
 On 2022-01-05 Student Count: 294. Staff Count: 79  
-On 2022-01-04 Student Count: 195. Staff Count: 46  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 99. Staff Count: 33
+Difference between 2022-01-06 and 2022-01-05. Student Count: 90. Staff Count: 8
 
 
 
@@ -127,23 +127,23 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Berkeley Alternative](graphics/5.png)
+On 2022-01-06 Student Count: 0. Staff Count: 0  
 On 2022-01-05 Student Count: 0. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Berkeley Elementary](graphics/6.png)
+On 2022-01-06 Student Count: 7. Staff Count: 4  
 On 2022-01-05 Student Count: 6. Staff Count: 4  
-On 2022-01-04 Student Count: 2. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 4. Staff Count: 3
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 0
 
 
 
 ### [Berkeley High School](graphics/7.png)
+On 2022-01-06 Student Count: 25. Staff Count: 7  
 On 2022-01-05 Student Count: 16. Staff Count: 7  
-On 2022-01-04 Student Count: 14. Staff Count: 7  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 2. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 9. Staff Count: 0
 
 
 
@@ -155,16 +155,16 @@ Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 2
 
 
 ### [Berkeley Middle](graphics/9.png)
+On 2022-01-06 Student Count: 15. Staff Count: 0  
 On 2022-01-05 Student Count: 10. Staff Count: 0  
-On 2022-01-04 Student Count: 7. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 3. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 5. Staff Count: 0
 
 
 
 ### [Berkeley Middle College](graphics/10.png)
+On 2022-01-06 Student Count: 0. Staff Count: 0  
 On 2022-01-05 Student Count: 0. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
@@ -176,23 +176,23 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Bonner Elementary](graphics/12.png)
+On 2022-01-06 Student Count: 10. Staff Count: 0  
 On 2022-01-05 Student Count: 5. Staff Count: 0  
-On 2022-01-04 Student Count: 4. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 1. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 5. Staff Count: 0
 
 
 
 ### [Boulder Bluff Elementary](graphics/13.png)
+On 2022-01-06 Student Count: 4. Staff Count: 1  
 On 2022-01-05 Student Count: 5. Staff Count: 2  
-On 2022-01-04 Student Count: 6. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: -1. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: -1. Staff Count: -1
 
 
 
 ### [Bowens Corner Elementary](graphics/14.png)
+On 2022-01-06 Student Count: 7. Staff Count: 2  
 On 2022-01-05 Student Count: 6. Staff Count: 2  
-On 2022-01-04 Student Count: 5. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 1. Staff Count: 2
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 0
 
 
 
@@ -204,23 +204,23 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Cainhoy Elementary](graphics/16.png)
+On 2022-01-06 Student Count: 1. Staff Count: 0  
 On 2022-01-05 Student Count: 1. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 1. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Cane Bay Elementary](graphics/17.png)
+On 2022-01-06 Student Count: 11. Staff Count: 2  
 On 2022-01-05 Student Count: 10. Staff Count: 2  
-On 2022-01-04 Student Count: 6. Staff Count: 2  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 4. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 0
 
 
 
 ### [Cane Bay High](graphics/18.png)
+On 2022-01-06 Student Count: 43. Staff Count: 3  
 On 2022-01-05 Student Count: 34. Staff Count: 3  
-On 2022-01-04 Student Count: 27. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 7. Staff Count: 2
+Difference between 2022-01-06 and 2022-01-05. Student Count: 9. Staff Count: 0
 
 
 
@@ -246,9 +246,9 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Central Offices](graphics/22.png)
+On 2022-01-06 Student Count: 0. Staff Count: 0  
 On 2022-01-05 Student Count: 0. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
@@ -260,16 +260,16 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [College Park Elementary](graphics/24.png)
+On 2022-01-06 Student Count: 10. Staff Count: 1  
 On 2022-01-05 Student Count: 5. Staff Count: 1  
-On 2022-01-04 Student Count: 5. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 5. Staff Count: 0
 
 
 
 ### [College Park Middle](graphics/25.png)
+On 2022-01-06 Student Count: 7. Staff Count: 0  
 On 2022-01-05 Student Count: 5. Staff Count: 0  
-On 2022-01-04 Student Count: 5. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: -1
+Difference between 2022-01-06 and 2022-01-05. Student Count: 2. Staff Count: 0
 
 
 
@@ -281,30 +281,30 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Cross Elementary](graphics/27.png)
+On 2022-01-06 Student Count: 1. Staff Count: 2  
 On 2022-01-05 Student Count: 0. Staff Count: 1  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 1
 
 
 
 ### [Cross High](graphics/28.png)
+On 2022-01-06 Student Count: 3. Staff Count: 0  
 On 2022-01-05 Student Count: 3. Staff Count: 0  
-On 2022-01-04 Student Count: 3. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Daniel Island School](graphics/29.png)
+On 2022-01-06 Student Count: 5. Staff Count: 1  
 On 2022-01-05 Student Count: 4. Staff Count: 2  
-On 2022-01-04 Student Count: 4. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 2
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: -1
 
 
 
 ### [Devon Forest Elementary](graphics/30.png)
+On 2022-01-06 Student Count: 10. Staff Count: 0  
 On 2022-01-05 Student Count: 9. Staff Count: 0  
-On 2022-01-04 Student Count: 6. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 3. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 0
 
 
 
@@ -337,51 +337,51 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Fishburne Campus](graphics/35.png)
+On 2022-01-06 Student Count: 0. Staff Count: 0  
 On 2022-01-05 Student Count: 0. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Foxbank Elementary](graphics/36.png)
+On 2022-01-06 Student Count: 0. Staff Count: 3  
 On 2022-01-05 Student Count: 0. Staff Count: 3  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 3
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Goose Creek Elementary](graphics/37.png)
+On 2022-01-06 Student Count: 1. Staff Count: 3  
 On 2022-01-05 Student Count: 0. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 3
 
 
 
 ### [Goose Creek High](graphics/38.png)
+On 2022-01-06 Student Count: 13. Staff Count: 10  
 On 2022-01-05 Student Count: 10. Staff Count: 6  
-On 2022-01-04 Student Count: 5. Staff Count: 3  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 5. Staff Count: 3
+Difference between 2022-01-06 and 2022-01-05. Student Count: 3. Staff Count: 4
 
 
 
 ### [Hanahan Elementary](graphics/39.png)
+On 2022-01-06 Student Count: 20. Staff Count: 3  
 On 2022-01-05 Student Count: 13. Staff Count: 0  
-On 2022-01-04 Student Count: 11. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 2. Staff Count: -1
+Difference between 2022-01-06 and 2022-01-05. Student Count: 7. Staff Count: 3
 
 
 
 ### [Hanahan High](graphics/40.png)
+On 2022-01-06 Student Count: 9. Staff Count: 0  
 On 2022-01-05 Student Count: 10. Staff Count: 0  
-On 2022-01-04 Student Count: 6. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 4. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: -1. Staff Count: 0
 
 
 
 ### [Hanahan Middle](graphics/41.png)
+On 2022-01-06 Student Count: 9. Staff Count: 2  
 On 2022-01-05 Student Count: 7. Staff Count: 4  
-On 2022-01-04 Student Count: 2. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 5. Staff Count: 3
+Difference between 2022-01-06 and 2022-01-05. Student Count: 2. Staff Count: -2
 
 
 
@@ -393,9 +393,9 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Howe Hall Aims](graphics/43.png)
+On 2022-01-06 Student Count: 6. Staff Count: 2  
 On 2022-01-05 Student Count: 6. Staff Count: 2  
-On 2022-01-04 Student Count: 1. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 5. Staff Count: 2
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
@@ -414,9 +414,9 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 1. Staff Count: 0
 
 
 ### [Jk Goudin Elementary](graphics/46.png)
+On 2022-01-06 Student Count: 1. Staff Count: 0  
 On 2022-01-05 Student Count: 1. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 1. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
@@ -428,44 +428,44 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Macedonia Middle](graphics/48.png)
+On 2022-01-06 Student Count: 3. Staff Count: 1  
 On 2022-01-05 Student Count: 3. Staff Count: 0  
-On 2022-01-04 Student Count: 2. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 1. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 1
 
 
 
 ### [Maintenance](graphics/49.png)
+On 2022-01-06 Student Count: 0. Staff Count: 3  
 On 2022-01-05 Student Count: 0. Staff Count: 3  
-On 2022-01-04 Student Count: 0. Staff Count: 2  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Marrington Elementary](graphics/50.png)
+On 2022-01-06 Student Count: 3. Staff Count: 0  
 On 2022-01-05 Student Count: 2. Staff Count: 0  
-On 2022-01-04 Student Count: 2. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 0
 
 
 
 ### [Marrington Middle](graphics/51.png)
+On 2022-01-06 Student Count: 3. Staff Count: 0  
 On 2022-01-05 Student Count: 2. Staff Count: 0  
-On 2022-01-04 Student Count: 2. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 0
 
 
 
 ### [Mount Holly Elementary](graphics/52.png)
+On 2022-01-06 Student Count: 2. Staff Count: 0  
 On 2022-01-05 Student Count: 2. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 2. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Nexton Elementary](graphics/53.png)
+On 2022-01-06 Student Count: 6. Staff Count: 3  
 On 2022-01-05 Student Count: 8. Staff Count: 2  
-On 2022-01-04 Student Count: 6. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 2. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: -2. Staff Count: 1
 
 
 
@@ -484,23 +484,23 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Philip Simmons Elementary](graphics/56.png)
+On 2022-01-06 Student Count: 11. Staff Count: 4  
 On 2022-01-05 Student Count: 7. Staff Count: 4  
-On 2022-01-04 Student Count: 1. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 6. Staff Count: 4
+Difference between 2022-01-06 and 2022-01-05. Student Count: 4. Staff Count: 0
 
 
 
 ### [Philip Simmons High](graphics/57.png)
+On 2022-01-06 Student Count: 12. Staff Count: 0  
 On 2022-01-05 Student Count: 10. Staff Count: 0  
-On 2022-01-04 Student Count: 6. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 4. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 2. Staff Count: 0
 
 
 
 ### [Philip Simmons Middle](graphics/58.png)
+On 2022-01-06 Student Count: 1. Staff Count: 1  
 On 2022-01-05 Student Count: 2. Staff Count: 1  
-On 2022-01-04 Student Count: 1. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 1. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: -1. Staff Count: 0
 
 
 
@@ -519,30 +519,30 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Sangaree Elementary](graphics/61.png)
+On 2022-01-06 Student Count: 4. Staff Count: 1  
 On 2022-01-05 Student Count: 3. Staff Count: 0  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 3. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 1
 
 
 
 ### [Sangaree Intermediate](graphics/62.png)
+On 2022-01-06 Student Count: 4. Staff Count: 1  
 On 2022-01-05 Student Count: 5. Staff Count: 1  
-On 2022-01-04 Student Count: 3. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 2. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: -1. Staff Count: 0
 
 
 
 ### [Sangaree Middle](graphics/63.png)
+On 2022-01-06 Student Count: 3. Staff Count: 0  
 On 2022-01-05 Student Count: 5. Staff Count: 0  
-On 2022-01-04 Student Count: 7. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: -2. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: -2. Staff Count: 0
 
 
 
 ### [Sedgefield Middle](graphics/64.png)
+On 2022-01-06 Student Count: 15. Staff Count: 0  
 On 2022-01-05 Student Count: 9. Staff Count: 0  
-On 2022-01-04 Student Count: 5. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 4. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 6. Staff Count: 0
 
 
 
@@ -561,16 +561,16 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [St Stephen Elementary](graphics/67.png)
+On 2022-01-06 Student Count: 3. Staff Count: 1  
 On 2022-01-05 Student Count: 1. Staff Count: 1  
-On 2022-01-04 Student Count: 0. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 1. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 2. Staff Count: 0
 
 
 
 ### [St Stephen Middle](graphics/68.png)
+On 2022-01-06 Student Count: 3. Staff Count: 1  
 On 2022-01-05 Student Count: 0. Staff Count: 1  
-On 2022-01-04 Student Count: 0. Staff Count: 3  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: -2
+Difference between 2022-01-06 and 2022-01-05. Student Count: 3. Staff Count: 0
 
 
 
@@ -589,9 +589,9 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Stratford High](graphics/71.png)
+On 2022-01-06 Student Count: 23. Staff Count: 3  
 On 2022-01-05 Student Count: 17. Staff Count: 4  
-On 2022-01-04 Student Count: 9. Staff Count: 4  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 8. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 6. Staff Count: -1
 
 
 
@@ -603,23 +603,23 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Technology](graphics/73.png)
+On 2022-01-06 Student Count: 0. Staff Count: 1  
 On 2022-01-05 Student Count: 0. Staff Count: 1  
-On 2022-01-04 Student Count: 0. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 0
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: 0
 
 
 
 ### [Timberland High](graphics/74.png)
+On 2022-01-06 Student Count: 4. Staff Count: 1  
 On 2022-01-05 Student Count: 3. Staff Count: 1  
-On 2022-01-04 Student Count: 3. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 0. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: 1. Staff Count: 0
 
 
 
 ### [Transportation](graphics/75.png)
+On 2022-01-06 Student Count: 0. Staff Count: 1  
 On 2022-01-04 Student Count: 0. Staff Count: 1  
-On 2022-01-03 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-04 and 2022-01-03. Student Count: 0. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-04. Student Count: 0. Staff Count: 0
 
 
 
@@ -659,31 +659,31 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Westview Elementary](graphics/81.png)
+On 2022-01-06 Student Count: 6. Staff Count: 1  
 On 2022-01-05 Student Count: 7. Staff Count: 1  
-On 2022-01-04 Student Count: 3. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 4. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: -1. Staff Count: 0
 
 
 
 ### [Westview Middle](graphics/82.png)
+On 2022-01-06 Student Count: 11. Staff Count: 0  
 On 2022-01-05 Student Count: 11. Staff Count: 2  
-On 2022-01-04 Student Count: 7. Staff Count: 3  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 4. Staff Count: -1
+Difference between 2022-01-06 and 2022-01-05. Student Count: 0. Staff Count: -2
 
 
 
 ### [Westview Primary](graphics/83.png)
+On 2022-01-06 Student Count: 4. Staff Count: 2  
 On 2022-01-05 Student Count: 5. Staff Count: 1  
-On 2022-01-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 5. Staff Count: 1
+Difference between 2022-01-06 and 2022-01-05. Student Count: -1. Staff Count: 1
 
 
 
 ### [Whitesville Elementary](graphics/84.png)
+On 2022-01-06 Student Count: 11. Staff Count: 5  
 On 2022-01-05 Student Count: 2. Staff Count: 5  
-On 2022-01-04 Student Count: 0. Staff Count: 1  
-Difference between 2022-01-05 and 2022-01-04. Student Count: 2. Staff Count: 4
+Difference between 2022-01-06 and 2022-01-05. Student Count: 9. Staff Count: 0
 
 
-    This file generated on 2022-01-05 23:51:35.979573 UTC
+    This file generated on 2022-01-06 23:51:42.335303 UTC
 
