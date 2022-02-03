@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-02-03
+    Most recent date with data is 2022-02-02
+
+
 
 | School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -57,8 +61,8 @@ This notebook provides various processing and infographics on COVID dashboard re
 | Berkeley Elementary      | 2022-02-02 00:00:00 |             8 |              16 |                      0 |                       51 |
 | Timberland High          | 2022-02-02 00:00:00 |             5 |               9 |                      0 |                        9 |
 | St Stephen Elementary    | 2022-02-02 00:00:00 |             4 |               4 |                      0 |                       24 |
+| Berkeley High School     | 2022-02-02 00:00:00 |             3 |              25 |                      0 |                       69 |
 | Bowens Corner Elementary | 2022-02-02 00:00:00 |             3 |              13 |                      0 |                       36 |
-| Stratford High           | 2022-02-02 00:00:00 |             3 |              33 |                      1 |                       78 |
 
 
 ## Top 5 Highest Schools All Time
@@ -692,5 +696,5 @@ On 2022-02-01 Student Count: 20. Staff Count: 2
 Difference between 2022-02-02 and 2022-02-01. Student Count: -4. Staff Count: 0
 
 
-    This file generated on 2022-02-02 23:51:44.394161 UTC
+    This file generated on 2022-02-03 23:51:26.032986 UTC
 
