@@ -39,12 +39,16 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-02-08
+    Most recent date with data is 2022-02-07
+
+
 
 | School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Cane Bay High             | 2022-02-07 00:00:00 |             3 |              19 |                      1 |                       61 |
 | Cane Bay Elementary       | 2022-02-07 00:00:00 |             0 |              16 |                      0 |                       82 |
-| Bonner Elementary         | 2022-02-07 00:00:00 |             2 |              12 |                      3 |                       13 |
+| Foxbank Elementary        | 2022-02-07 00:00:00 |             0 |              12 |                      0 |                       24 |
 | Stratford High            | 2022-02-07 00:00:00 |             0 |              12 |                      0 |                       43 |
 | Philip Simmons Elementary | 2022-02-07 00:00:00 |             0 |              12 |                      0 |                       31 |
 
@@ -52,13 +56,13 @@ This notebook provides various processing and infographics on COVID dashboard re
 ### By Staff Count
 
 
-| School                   | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:-------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Timberland High          | 2022-02-07 00:00:00 |             3 |               2 |                      0 |                        4 |
-| Cane Bay High            | 2022-02-07 00:00:00 |             3 |              19 |                      1 |                       61 |
-| Berkeley Elementary      | 2022-02-07 00:00:00 |             2 |               4 |                      0 |                       32 |
-| Bowens Corner Elementary | 2022-02-07 00:00:00 |             2 |               5 |                      0 |                       18 |
-| Bonner Elementary        | 2022-02-07 00:00:00 |             2 |              12 |                      3 |                       13 |
+| School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Cane Bay High          | 2022-02-07 00:00:00 |             3 |              19 |                      1 |                       61 |
+| Timberland High        | 2022-02-07 00:00:00 |             3 |               2 |                      0 |                        4 |
+| Cane Bay Middle        | 2022-02-07 00:00:00 |             2 |              11 |                      0 |                       67 |
+| Bonner Elementary      | 2022-02-07 00:00:00 |             2 |              12 |                      3 |                       13 |
+| Mount Holly Elementary | 2022-02-07 00:00:00 |             2 |               2 |                      1 |                        7 |
 
 
 ## Top 5 Highest Schools All Time
@@ -692,5 +696,5 @@ On 2022-02-04 Student Count: 14. Staff Count: 2
 Difference between 2022-02-07 and 2022-02-04. Student Count: -3. Staff Count: -1
 
 
-    This file generated on 2022-02-07 23:51:37.172003 UTC
+    This file generated on 2022-02-08 23:51:39.985392 UTC
 
