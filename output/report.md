@@ -39,14 +39,18 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-02-11
+    Most recent date with data is 2022-02-10
 
-| School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Stratford High       | 2022-02-10 00:00:00 |             0 |              12 |                      0 |                       27 |
-| Cane Bay High        | 2022-02-10 00:00:00 |             3 |              12 |                      0 |                       61 |
-| Bonner Elementary    | 2022-02-10 00:00:00 |             3 |              11 |                      2 |                       12 |
-| Cane Bay Elementary  | 2022-02-10 00:00:00 |             0 |              10 |                      0 |                       57 |
-| Berkeley High School | 2022-02-10 00:00:00 |             0 |               9 |                      0 |                       26 |
+
+
+| School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Stratford High      | 2022-02-10 00:00:00 |             0 |              12 |                      0 |                       27 |
+| Cane Bay High       | 2022-02-10 00:00:00 |             3 |              12 |                      0 |                       61 |
+| Bonner Elementary   | 2022-02-10 00:00:00 |             3 |              11 |                      2 |                       12 |
+| Cane Bay Elementary | 2022-02-10 00:00:00 |             0 |              10 |                      0 |                       57 |
+| Foxbank Elementary  | 2022-02-10 00:00:00 |             1 |               9 |                      0 |                       24 |
 
 
 ### By Staff Count
@@ -54,8 +58,8 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 | School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Bonner Elementary      | 2022-02-10 00:00:00 |             3 |              11 |                      2 |                       12 |
 | Cane Bay High          | 2022-02-10 00:00:00 |             3 |              12 |                      0 |                       61 |
+| Bonner Elementary      | 2022-02-10 00:00:00 |             3 |              11 |                      2 |                       12 |
 | Timberland High        | 2022-02-10 00:00:00 |             2 |               2 |                      0 |                        4 |
 | Mount Holly Elementary | 2022-02-10 00:00:00 |             2 |               1 |                      1 |                        3 |
 | Cane Bay Middle        | 2022-02-10 00:00:00 |             2 |               8 |                      0 |                       24 |
@@ -692,5 +696,5 @@ On 2022-02-09 Student Count: 6. Staff Count: 0
 Difference between 2022-02-10 and 2022-02-09. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-02-10 23:51:28.019725 UTC
+    This file generated on 2022-02-11 23:51:33.199294 UTC
 
