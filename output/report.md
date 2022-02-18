@@ -39,14 +39,18 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-02-18
+    Most recent date with data is 2022-02-17
+
+
 
 | School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Stratford High      | 2022-02-17 00:00:00 |             0 |               9 |                      0 |                       13 |
 | Cane Bay High       | 2022-02-17 00:00:00 |             2 |               7 |                      0 |                       37 |
 | Hanahan High        | 2022-02-17 00:00:00 |             0 |               5 |                      0 |                        2 |
-| Cane Bay Elementary | 2022-02-17 00:00:00 |             0 |               4 |                      0 |                       30 |
 | Cane Bay Middle     | 2022-02-17 00:00:00 |             0 |               4 |                      0 |                       20 |
+| Cane Bay Elementary | 2022-02-17 00:00:00 |             0 |               4 |                      0 |                       30 |
 
 
 ### By Staff Count
@@ -56,7 +60,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 |:------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | College Park Elementary | 2022-02-17 00:00:00 |             2 |               0 |                      0 |                        6 |
 | Cane Bay High           | 2022-02-17 00:00:00 |             2 |               7 |                      0 |                       37 |
-| St Stephen Elementary   | 2022-02-17 00:00:00 |             1 |               2 |                      0 |                        7 |
+| Westview Elementary     | 2022-02-17 00:00:00 |             1 |               1 |                      0 |                        5 |
 | Macedonia Middle        | 2022-02-17 00:00:00 |             1 |               1 |                      0 |                        4 |
 | Daniel Island School    | 2022-02-17 00:00:00 |             1 |               0 |                      1 |                        2 |
 
@@ -155,9 +159,9 @@ Difference between 2022-02-17 and 2022-02-15. Student Count: -1. Staff Count: 0
 
 
 ### [Berkeley Intermediate](graphics/9.png)
+On 2022-02-17 Student Count: 0. Staff Count: 0  
 On 2022-02-15 Student Count: 0. Staff Count: 0  
-On 2022-02-14 Student Count: 0. Staff Count: 0  
-Difference between 2022-02-15 and 2022-02-14. Student Count: 0. Staff Count: 0
+Difference between 2022-02-17 and 2022-02-15. Student Count: 0. Staff Count: 0
 
 
 
@@ -692,5 +696,5 @@ On 2022-02-15 Student Count: 2. Staff Count: 0
 Difference between 2022-02-17 and 2022-02-15. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-02-17 23:51:47.055927 UTC
+    This file generated on 2022-02-18 23:51:24.065945 UTC
 
