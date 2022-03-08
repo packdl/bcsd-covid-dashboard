@@ -1,6 +1,9 @@
 # BCSD Infographic notebook
 This notebook provides various processing and infographics on COVID dashboard reporting for Berkeley County School District
 
+    Matplotlib is building the font cache; this may take a moment.
+
+
 ## List all schools and areas the district is tracking
 
     The school district is tracking 86 schools, offices or departments.
@@ -38,6 +41,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 ## Top 5 Highest Schools Today
 
 ###  By Student Count
+
+    Data is not available for today: 2022-03-08
+    Most recent date with data is 2022-03-07
+
 
 
 | School             | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
@@ -692,5 +699,5 @@ On 2022-03-03 Student Count: 1. Staff Count: 0
 Difference between 2022-03-07 and 2022-03-03. Student Count: -1. Staff Count: 0
 
 
-    This file generated on 2022-03-07 23:51:38.825095 UTC
+    This file generated on 2022-03-08 23:51:44.987373 UTC
 
