@@ -217,10 +217,6 @@ greenlet==1.1.2 \
     --hash=sha256:fa877ca7f6b48054f847b61d6fa7bed5cebb663ebc55e018fda12db09dcc664c \
     --hash=sha256:fdcec0b8399108577ec290f55551d926d9a1fa6cad45882093a7a07ac5ec147b
     # via playwright
-importlib-resources==5.4.0 \
-    --hash=sha256:33a95faed5fc19b4bc16b29a6eeae248a3fe69dd55d4d229d2b480e23eeaad45 \
-    --hash=sha256:d756e2f85dd4de2ba89be0b21dba2a3bbec2e871a42a3a16719258a11f87506b
-    # via jsonschema
 ipykernel==6.7.0 \
     --hash=sha256:6203ccd5510ff148e9433fd4a2707c5ce8d688f026427f46e13d7ebf9b3e9787 \
     --hash=sha256:d82b904fdc2fd8c7b1fbe0fa481c68a11b4cd4c8ef07e6517da1f10cc3114d24
@@ -246,9 +242,9 @@ ipython-genutils==0.2.0 \
     #   ipywidgets
     #   nbformat
     #   notebook
-ipywidgets==7.6.5 \
-    --hash=sha256:00974f7cb4d5f8d494c19810fedb9fa9b64bffd3cda7c2be23c133a1ad3c99c5 \
-    --hash=sha256:d258f582f915c62ea91023299603be095de19afb5ee271698f88327b9fe9bf43
+ipywidgets==7.7.0 \
+    --hash=sha256:ab4a5596855a88b83761921c768707d65e5847068139bc1729ddfe834703542a \
+    --hash=sha256:e58ff58bc94d481e91ecb6e13a5cb96a87b6b8ade135e055603d0ca24593df38
     # via
     #   -r requirements.in
     #   ipympl
@@ -842,7 +838,6 @@ typing-extensions==4.0.1 \
     --hash=sha256:7f001e5ac290a0c0401508864c7ec868be4e701886d5b573a9528ed3973d9d3b
     # via
     #   black
-    #   playwright
     #   pyee
 wcwidth==0.2.5 \
     --hash=sha256:beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784 \
@@ -902,14 +897,10 @@ websockets==10.1 \
     --hash=sha256:e3872ae57acd4306ecf937d36177854e218e999af410a05c17168cd99676c512 \
     --hash=sha256:e4819c6fb4f336fd5388372cb556b1f3a165f3f68e66913d1a2fc1de55dc6f58
     # via playwright
-widgetsnbextension==3.5.2 \
-    --hash=sha256:763a9fdc836d141fa080005a886d63f66f73d56dba1fb5961afc239c77708569 \
-    --hash=sha256:e0731a60ba540cd19bbbefe771a9076dcd2dde90713a8f87f27f53f2d1db7727
+widgetsnbextension==3.6.0 \
+    --hash=sha256:4fd321cad39fdcf8a8e248a657202d42917ada8e8ed5dd3f60f073e0d54ceabd \
+    --hash=sha256:e84a7a9fcb9baf3d57106e184a7389a8f8eb935bf741a5eb9d60aa18cc029a80
     # via ipywidgets
-zipp==3.7.0 \
-    --hash=sha256:9f50f446828eb9d45b267433fd3e9da8d801f614129124863f9c51ebceafb87d \
-    --hash=sha256:b47250dd24f92b7dd6a0a8fc5244da14608f3ca90a5efcd37a3b1642fac9a375
-    # via importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==60.5.0 \
