@@ -217,10 +217,6 @@ greenlet==1.1.2 \
     --hash=sha256:fa877ca7f6b48054f847b61d6fa7bed5cebb663ebc55e018fda12db09dcc664c \
     --hash=sha256:fdcec0b8399108577ec290f55551d926d9a1fa6cad45882093a7a07ac5ec147b
     # via playwright
-importlib-resources==5.4.0 \
-    --hash=sha256:33a95faed5fc19b4bc16b29a6eeae248a3fe69dd55d4d229d2b480e23eeaad45 \
-    --hash=sha256:d756e2f85dd4de2ba89be0b21dba2a3bbec2e871a42a3a16719258a11f87506b
-    # via jsonschema
 ipykernel==6.7.0 \
     --hash=sha256:6203ccd5510ff148e9433fd4a2707c5ce8d688f026427f46e13d7ebf9b3e9787 \
     --hash=sha256:d82b904fdc2fd8c7b1fbe0fa481c68a11b4cd4c8ef07e6517da1f10cc3114d24
@@ -607,14 +603,14 @@ platformdirs==2.4.1 \
     --hash=sha256:1d7385c7db91728b83efd0ca99a5afb296cab9d0ed8313a45ed8ba17967ecfca \
     --hash=sha256:440633ddfebcc36264232365d7840a970e75e1018d15b4327d11f91909045fda
     # via black
-playwright==1.18.1 \
-    --hash=sha256:528470e89827b09524acb197634381f62483c15b78dcbedc85528e0b727e705f \
-    --hash=sha256:7ae5f8e6ae820d44b6fe04f94c261047536ee75724a032f2dd2be94c952303ed \
-    --hash=sha256:84572ba1d04cb3e31e30181fa4fa09ca64d7841af19e98ff221259e2d6a108e6 \
-    --hash=sha256:917b8472cab589cece536ae97491b4f124b324642190985440737d1fe8a55764 \
-    --hash=sha256:a5ce9c42e6108b5aeb63fdfefe2adbb9d0d85c1cba389bf7da0c56d1a6aa874e \
-    --hash=sha256:d8a8d944da91f77c0a66d23e51bf8aa142a38820da8e70cf13b68636ee343346 \
-    --hash=sha256:e47ebe9d55a3d8e320b63aa688b671d9e40e50c906315cb225f20ffe7503b35d
+playwright==1.20.1 \
+    --hash=sha256:0af0632e201fb4327ea7bfc5bf12ad18afd3468b1ee76ca163145bc96ea42be7 \
+    --hash=sha256:220a84b0f35639a9d017d3e82df2e5590b4ad89c93b9d74dbfa90d0d690516fe \
+    --hash=sha256:4d093488729768b3bf288b5959eb2ad6d5603be5e39a59be1d014e7b2703e90a \
+    --hash=sha256:5c2735cba76ef992ea5129eead9da315e45f2a40858fb43dabd1b80fb0fa6749 \
+    --hash=sha256:7c9422d7d654123cb988fadde0cd46a2eeaaa7e1ce6ac6587aabb0a27b52e17c \
+    --hash=sha256:a5ba030f5382a5fa2901173fed5e821fc2c8452810b123c2bf0dfa43251544a8 \
+    --hash=sha256:fac22d79d9f3af9a0fdededaae5a95c652ac98ffc7f4afb042c7a6b0f854337e
     # via -r requirements.in
 prometheus-client==0.12.0 \
     --hash=sha256:1b12ba48cee33b9b0b9de64a1047cbd3c5f2d0ab6ebcead7ddda613a750ec3c5 \
@@ -638,9 +634,9 @@ pycparser==2.21 \
     --hash=sha256:8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9 \
     --hash=sha256:e644fdec12f7872f86c58ff790da456218b10f863970249516d60a5eaca77206
     # via cffi
-pyee==9.0.3 \
-    --hash=sha256:581efd42af562ebd42bcf13b0eac5341d3d887f37661cf965744fe2135fee3bb \
-    --hash=sha256:ab60ed0f00eb465b32e527df2159d4f32cf06f2239b511a45f5e80184ceb9d6f
+pyee==8.1.0 \
+    --hash=sha256:383973b63ad7ed5e3c0311f8b179c52981f9e7b3eaea0e9a830d13ec34dde65f \
+    --hash=sha256:92dacc5bd2bdb8f95aa8dd2585d47ca1c4840e2adb95ccf90034d64f725bfd31
     # via playwright
 pygments==2.11.2 \
     --hash=sha256:44238f1b60a76d78fc8ca0528ee429702aae011c265fe6a8dd8b63049ae41c65 \
@@ -840,10 +836,7 @@ traitlets==5.1.1 \
 typing-extensions==4.0.1 \
     --hash=sha256:4ca091dea149f945ec56afb48dae714f21e8692ef22a395223bcd328961b6a0e \
     --hash=sha256:7f001e5ac290a0c0401508864c7ec868be4e701886d5b573a9528ed3973d9d3b
-    # via
-    #   black
-    #   playwright
-    #   pyee
+    # via black
 wcwidth==0.2.5 \
     --hash=sha256:beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784 \
     --hash=sha256:c4d647b99872929fdb7bdcaa4fbe7f01413ed3d98077df798530e5b04f116c83
@@ -906,10 +899,6 @@ widgetsnbextension==3.5.2 \
     --hash=sha256:763a9fdc836d141fa080005a886d63f66f73d56dba1fb5961afc239c77708569 \
     --hash=sha256:e0731a60ba540cd19bbbefe771a9076dcd2dde90713a8f87f27f53f2d1db7727
     # via ipywidgets
-zipp==3.7.0 \
-    --hash=sha256:9f50f446828eb9d45b267433fd3e9da8d801f614129124863f9c51ebceafb87d \
-    --hash=sha256:b47250dd24f92b7dd6a0a8fc5244da14608f3ca90a5efcd37a3b1642fac9a375
-    # via importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==60.5.0 \
