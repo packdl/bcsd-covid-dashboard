@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-03-25
+    Most recent date with data is 2022-03-24
+
+
 
 | School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -190,9 +194,9 @@ Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
 ### [Boulder Bluff Elementary](graphics/14.png)
+On 2022-03-24 Student Count: 0. Staff Count: 0  
 On 2022-03-21 Student Count: 0. Staff Count: 0  
-On 2022-03-17 Student Count: 0. Staff Count: 0  
-Difference between 2022-03-21 and 2022-03-17. Student Count: 0. Staff Count: 0
+Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
 
@@ -400,9 +404,9 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 0. Staff Count: 0
 
 
 ### [Howe Hall Aims](graphics/44.png)
+On 2022-03-24 Student Count: 0. Staff Count: 0  
 On 2022-03-21 Student Count: 0. Staff Count: 0  
-On 2022-03-17 Student Count: 0. Staff Count: 0  
-Difference between 2022-03-21 and 2022-03-17. Student Count: 0. Staff Count: 0
+Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
 
@@ -442,9 +446,9 @@ Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
 ### [Maintenance](graphics/50.png)
+On 2022-03-24 Student Count: 0. Staff Count: 0  
 On 2022-03-21 Student Count: 0. Staff Count: 0  
-On 2022-03-17 Student Count: 0. Staff Count: 0  
-Difference between 2022-03-21 and 2022-03-17. Student Count: 0. Staff Count: 0
+Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
 
@@ -463,9 +467,9 @@ Difference between 2022-03-24 and 2022-03-21. Student Count: -1. Staff Count: 0
 
 
 ### [Mount Holly Elementary](graphics/53.png)
+On 2022-03-24 Student Count: 0. Staff Count: 0  
 On 2022-03-21 Student Count: 0. Staff Count: 0  
-On 2022-03-17 Student Count: 0. Staff Count: 0  
-Difference between 2022-03-21 and 2022-03-17. Student Count: 0. Staff Count: 0
+Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
 
@@ -692,5 +696,5 @@ On 2022-03-21 Student Count: 0. Staff Count: 0
 Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-03-24 23:51:42.700537 UTC
+    This file generated on 2022-03-25 23:51:54.362037 UTC
 
