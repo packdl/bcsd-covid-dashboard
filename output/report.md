@@ -1,9 +1,6 @@
 # BCSD Infographic notebook
 This notebook provides various processing and infographics on COVID dashboard reporting for Berkeley County School District
 
-    Matplotlib is building the font cache; this may take a moment.
-
-
 ## List all schools and areas the district is tracking
 
     The school district is tracking 86 schools, offices or departments.
@@ -42,7 +39,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2022-03-28
+    Data is not available for today: 2022-03-29
     Most recent date with data is 2022-03-24
 
 
@@ -50,22 +47,22 @@ This notebook provides various processing and infographics on COVID dashboard re
 | School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Cainhoy Elementary        | 2022-03-24 00:00:00 |             0 |               1 |                      0 |                       11 |
+| College Park Elementary   | 2022-03-24 00:00:00 |             0 |               1 |                      0 |                        1 |
 | Westview Elementary       | 2022-03-24 00:00:00 |             0 |               1 |                      0 |                        0 |
 | Timberland High           | 2022-03-24 00:00:00 |             0 |               1 |                      0 |                        0 |
 | Philip Simmons Elementary | 2022-03-24 00:00:00 |             0 |               1 |                      0 |                        0 |
-| Nexton Elementary         | 2022-03-24 00:00:00 |             0 |               1 |                      0 |                        0 |
 
 
 ### By Staff Count
 
 
-| School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Cross Elementary       | 2022-03-24 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Goose Creek Elementary | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan Elementary     | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan High           | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan Middle         | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
+| School             | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:-------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Cross Elementary   | 2022-03-24 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Goose Creek High   | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan Elementary | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan High       | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan Middle     | 2022-03-24 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -699,5 +696,5 @@ On 2022-03-21 Student Count: 0. Staff Count: 0
 Difference between 2022-03-24 and 2022-03-21. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-03-28 23:51:53.296182 UTC
+    This file generated on 2022-03-29 23:51:41.751724 UTC
 
