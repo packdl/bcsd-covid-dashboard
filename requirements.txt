@@ -208,19 +208,15 @@ greenlet==1.1.2 \
     --hash=sha256:fa877ca7f6b48054f847b61d6fa7bed5cebb663ebc55e018fda12db09dcc664c \
     --hash=sha256:fdcec0b8399108577ec290f55551d926d9a1fa6cad45882093a7a07ac5ec147b
     # via playwright
-importlib-resources==5.6.0 \
-    --hash=sha256:1b93238cbf23b4cde34240dd8321d99e9bf2eb4bc91c0c99b2886283e7baad85 \
-    --hash=sha256:a9dd72f6cc106aeb50f6e66b86b69b454766dd6e39b69ac68450253058706bcc
-    # via jsonschema
 ipykernel==6.10.0 \
     --hash=sha256:86ebe63f58cb68f299e06a2add4957df0eaebc7b0864de5711accd9c532d7810 \
     --hash=sha256:d1c7d92daea5d9b55a33e523d4d17c09ad38e0df17a4e0ed2fa5c97f07f200ba
     # via
     #   ipywidgets
     #   notebook
-ipympl==0.8.8 \
-    --hash=sha256:5bf5d780b07fafe7924922ac6b2f3abd22721f341e5e196b3b82737dfbd0e1c9 \
-    --hash=sha256:86468aeaae8c0a28007d0c7f6dbb85f2b6cb9805167e88d4daa7529562009159
+ipympl==0.9.0 \
+    --hash=sha256:1e93b74ffcd16e29b1775fa75246d299c963ee73ec318b9250ad15248b5942ce \
+    --hash=sha256:715e13a02015f1bc16dacd5558246747b22dcd78c1ebf5af750406238f2397a4
     # via -r requirements.in
 ipython==8.2.0 \
     --hash=sha256:1b672bfd7a48d87ab203d9af8727a3b0174a4566b4091e9447c22fb63ea32857 \
@@ -814,10 +810,6 @@ traitlets==5.1.1 \
     #   nbconvert
     #   nbformat
     #   notebook
-typing-extensions==4.1.1 \
-    --hash=sha256:1a9462dcc3347a79b1f1c0271fbe79e844580bb598bafa1ed208b94da3cdcd42 \
-    --hash=sha256:21c85e0fe4b9a155d0799430b0ad741cdce7e359660ccbd8b530613e8df88ce2
-    # via playwright
 wcwidth==0.2.5 \
     --hash=sha256:beb4802a9cebb9144e99086eff703a642a13d6a0052920003a230f3294bbe784 \
     --hash=sha256:c4d647b99872929fdb7bdcaa4fbe7f01413ed3d98077df798530e5b04f116c83
@@ -880,10 +872,6 @@ widgetsnbextension==3.6.0 \
     --hash=sha256:4fd321cad39fdcf8a8e248a657202d42917ada8e8ed5dd3f60f073e0d54ceabd \
     --hash=sha256:e84a7a9fcb9baf3d57106e184a7389a8f8eb935bf741a5eb9d60aa18cc029a80
     # via ipywidgets
-zipp==3.7.0 \
-    --hash=sha256:9f50f446828eb9d45b267433fd3e9da8d801f614129124863f9c51ebceafb87d \
-    --hash=sha256:b47250dd24f92b7dd6a0a8fc5244da14608f3ca90a5efcd37a3b1642fac9a375
-    # via importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==61.2.0 \
