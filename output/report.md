@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-04-19
+    Most recent date with data is 2022-04-18
+
+
 
 | School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -52,13 +56,13 @@ This notebook provides various processing and infographics on COVID dashboard re
 ### By Staff Count
 
 
-| School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Goose Creek Elementary | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan Elementary     | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan High           | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan Middle         | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Howe Hall Aims         | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
+| School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Philip Simmons High | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan Elementary  | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan High        | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan Middle      | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Howe Hall Aims      | 2022-04-18 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -351,9 +355,9 @@ Difference between 2022-04-18 and 2022-04-07. Student Count: 0. Staff Count: 0
 
 
 ### [Foxbank Elementary](graphics/37.png)
+On 2022-04-18 Student Count: 0. Staff Count: 0  
 On 2022-04-07 Student Count: 1. Staff Count: 0  
-On 2022-04-04 Student Count: 1. Staff Count: 0  
-Difference between 2022-04-07 and 2022-04-04. Student Count: 0. Staff Count: 0
+Difference between 2022-04-18 and 2022-04-07. Student Count: -1. Staff Count: 0
 
 
 
@@ -421,9 +425,9 @@ Difference between 2021-08-27 and 2021-08-26. Student Count: 1. Staff Count: 0
 
 
 ### [Jk Goudin Elementary](graphics/47.png)
+On 2022-04-18 Student Count: 0. Staff Count: 0  
 On 2022-04-07 Student Count: 0. Staff Count: 0  
-On 2022-04-04 Student Count: 0. Staff Count: 0  
-Difference between 2022-04-07 and 2022-04-04. Student Count: 0. Staff Count: 0
+Difference between 2022-04-18 and 2022-04-07. Student Count: 0. Staff Count: 0
 
 
 
@@ -692,5 +696,5 @@ On 2022-04-07 Student Count: 0. Staff Count: 0
 Difference between 2022-04-18 and 2022-04-07. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-04-18 23:51:46.629017 UTC
+    This file generated on 2022-04-19 23:51:33.005484 UTC
 
