@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-04-22
+    Most recent date with data is 2022-04-21
+
+
 
 | School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -52,13 +56,13 @@ This notebook provides various processing and infographics on COVID dashboard re
 ### By Staff Count
 
 
-| School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Timberland High      | 2022-04-21 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Daniel Island School | 2022-04-21 00:00:00 |             1 |               1 |                      0 |                        0 |
-| Cross High           | 2022-04-21 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Goose Creek High     | 2022-04-21 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Westview Elementary  | 2022-04-21 00:00:00 |             0 |               1 |                      0 |                        0 |
+| School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Timberland High           | 2022-04-21 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Daniel Island School      | 2022-04-21 00:00:00 |             1 |               1 |                      0 |                        0 |
+| Cross High                | 2022-04-21 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Goose Creek High          | 2022-04-21 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Philip Simmons Elementary | 2022-04-21 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -309,9 +313,9 @@ Difference between 2022-04-21 and 2022-04-18. Student Count: 1. Staff Count: 1
 
 
 ### [Devon Forest Elementary](graphics/31.png)
+On 2022-04-21 Student Count: 0. Staff Count: 0  
 On 2022-04-18 Student Count: 0. Staff Count: 0  
-On 2022-04-07 Student Count: 0. Staff Count: 0  
-Difference between 2022-04-18 and 2022-04-07. Student Count: 0. Staff Count: 0
+Difference between 2022-04-21 and 2022-04-18. Student Count: 0. Staff Count: 0
 
 
 
@@ -692,5 +696,5 @@ On 2022-04-18 Student Count: 0. Staff Count: 0
 Difference between 2022-04-21 and 2022-04-18. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-04-21 23:51:54.077609 UTC
+    This file generated on 2022-04-22 23:51:50.390527 UTC
 
