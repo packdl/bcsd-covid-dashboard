@@ -39,7 +39,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2022-04-25
+    Data is not available for today: 2022-04-26
     Most recent date with data is 2022-04-24
 
 
@@ -47,8 +47,8 @@ This notebook provides various processing and infographics on COVID dashboard re
 | School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Cane Bay Middle     | 2022-04-24 00:00:00 |             0 |               2 |                      0 |                        1 |
-| Hanahan Middle      | 2022-04-24 00:00:00 |             0 |               1 |                      0 |                        0 |
 | Westview Elementary | 2022-04-24 00:00:00 |             0 |               1 |                      0 |                        0 |
+| Hanahan Middle      | 2022-04-24 00:00:00 |             0 |               1 |                      0 |                        0 |
 | Stratford High      | 2022-04-24 00:00:00 |             0 |               1 |                      0 |                        0 |
 | Cane Bay Elementary | 2022-04-24 00:00:00 |             0 |               1 |                      0 |                        0 |
 
@@ -56,13 +56,13 @@ This notebook provides various processing and infographics on COVID dashboard re
 ### By Staff Count
 
 
-| School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Macedonia Middle    | 2022-04-24 00:00:00 |             2 |               0 |                      0 |                        0 |
-| Timberland High     | 2022-04-24 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Philip Simmons High | 2022-04-24 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan Elementary  | 2022-04-24 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Hanahan High        | 2022-04-24 00:00:00 |             0 |               0 |                      0 |                        0 |
+| School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Macedonia Middle          | 2022-04-24 00:00:00 |             2 |               0 |                      0 |                        0 |
+| Timberland High           | 2022-04-24 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Philip Simmons Elementary | 2022-04-24 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Goose Creek High          | 2022-04-24 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan Elementary        | 2022-04-24 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -696,5 +696,5 @@ On 2022-04-21 Student Count: 0. Staff Count: 0
 Difference between 2022-04-24 and 2022-04-21. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-04-25 23:51:25.235208 UTC
+    This file generated on 2022-04-26 23:51:28.233838 UTC
 
