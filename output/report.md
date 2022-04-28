@@ -39,14 +39,18 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-04-28
+    Most recent date with data is 2022-04-27
+
+
 
 | School                  | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | College Park Elementary | 2022-04-27 00:00:00 |             0 |               3 |                      0 |                        0 |
-| Cane Bay Middle         | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        1 |
+| Daniel Island School    | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        0 |
 | Stratford High          | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        0 |
+| Cane Bay Middle         | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        1 |
 | Berkeley High School    | 2022-04-27 00:00:00 |             0 |               1 |                      0 |                        0 |
-| College Park Middle     | 2022-04-27 00:00:00 |             1 |               1 |                      0 |                        0 |
 
 
 ### By Staff Count
@@ -55,10 +59,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 | School                   | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Macedonia Middle         | 2022-04-27 00:00:00 |             2 |               0 |                      0 |                        0 |
+| Bowens Corner Elementary | 2022-04-27 00:00:00 |             1 |               0 |                      0 |                        0 |
 | College Park Middle      | 2022-04-27 00:00:00 |             1 |               1 |                      0 |                        0 |
 | Cane Bay High            | 2022-04-27 00:00:00 |             1 |               1 |                      0 |                        0 |
-| Bowens Corner Elementary | 2022-04-27 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Goose Creek High         | 2022-04-27 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Berkeley Middle          | 2022-04-27 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -302,9 +306,9 @@ Difference between 2022-04-27 and 2022-04-24. Student Count: 0. Staff Count: 0
 
 
 ### [Daniel Island School](graphics/30.png)
+On 2022-04-27 Student Count: 2. Staff Count: 0  
 On 2022-04-24 Student Count: 0. Staff Count: 0  
-On 2022-04-21 Student Count: 1. Staff Count: 1  
-Difference between 2022-04-24 and 2022-04-21. Student Count: -1. Staff Count: -1
+Difference between 2022-04-27 and 2022-04-24. Student Count: 2. Staff Count: 0
 
 
 
@@ -673,9 +677,9 @@ Difference between 2022-04-27 and 2022-04-24. Student Count: 0. Staff Count: 0
 
 
 ### [Westview Middle](graphics/83.png)
+On 2022-04-27 Student Count: 0. Staff Count: 0  
 On 2022-04-24 Student Count: 0. Staff Count: 0  
-On 2022-04-21 Student Count: 0. Staff Count: 0  
-Difference between 2022-04-24 and 2022-04-21. Student Count: 0. Staff Count: 0
+Difference between 2022-04-27 and 2022-04-24. Student Count: 0. Staff Count: 0
 
 
 
@@ -692,5 +696,5 @@ On 2022-04-24 Student Count: 0. Staff Count: 0
 Difference between 2022-04-27 and 2022-04-24. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-04-27 23:52:33.906697 UTC
+    This file generated on 2022-04-28 23:51:27.485473 UTC
 
