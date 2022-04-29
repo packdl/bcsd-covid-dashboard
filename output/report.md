@@ -39,7 +39,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2022-04-28
+    Data is not available for today: 2022-04-29
     Most recent date with data is 2022-04-27
 
 
@@ -48,9 +48,9 @@ This notebook provides various processing and infographics on COVID dashboard re
 |:------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | College Park Elementary | 2022-04-27 00:00:00 |             0 |               3 |                      0 |                        0 |
 | Daniel Island School    | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        0 |
-| Stratford High          | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        0 |
 | Cane Bay Middle         | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        1 |
-| Berkeley High School    | 2022-04-27 00:00:00 |             0 |               1 |                      0 |                        0 |
+| Stratford High          | 2022-04-27 00:00:00 |             0 |               2 |                      0 |                        0 |
+| Sangaree Intermediate   | 2022-04-27 00:00:00 |             0 |               1 |                      0 |                        1 |
 
 
 ### By Staff Count
@@ -62,7 +62,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 | Bowens Corner Elementary | 2022-04-27 00:00:00 |             1 |               0 |                      0 |                        0 |
 | College Park Middle      | 2022-04-27 00:00:00 |             1 |               1 |                      0 |                        0 |
 | Cane Bay High            | 2022-04-27 00:00:00 |             1 |               1 |                      0 |                        0 |
-| Berkeley Middle          | 2022-04-27 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan High             | 2022-04-27 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -696,5 +696,5 @@ On 2022-04-24 Student Count: 0. Staff Count: 0
 Difference between 2022-04-27 and 2022-04-24. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-04-28 23:51:27.485473 UTC
+    This file generated on 2022-04-29 23:51:38.770709 UTC
 
