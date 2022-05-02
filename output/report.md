@@ -39,7 +39,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2022-04-29
+    Data is not available for today: 2022-05-02
     Most recent date with data is 2022-04-27
 
 
@@ -696,5 +696,5 @@ On 2022-04-24 Student Count: 0. Staff Count: 0
 Difference between 2022-04-27 and 2022-04-24. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-04-29 23:51:38.770709 UTC
+    This file generated on 2022-05-02 23:51:29.867338 UTC
 
