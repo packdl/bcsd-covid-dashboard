@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-05-06
+    Most recent date with data is 2022-05-05
+
+
 
 | School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -533,9 +537,9 @@ Difference between 2022-05-05 and 2022-05-02. Student Count: 0. Staff Count: 0
 
 
 ### [Sangaree Intermediate](graphics/63.png)
+On 2022-05-05 Student Count: 0. Staff Count: 0  
 On 2022-05-02 Student Count: 0. Staff Count: 0  
-On 2022-04-27 Student Count: 1. Staff Count: 0  
-Difference between 2022-05-02 and 2022-04-27. Student Count: -1. Staff Count: 0
+Difference between 2022-05-05 and 2022-05-02. Student Count: 0. Staff Count: 0
 
 
 
@@ -692,5 +696,5 @@ On 2022-05-02 Student Count: 0. Staff Count: 0
 Difference between 2022-05-05 and 2022-05-02. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-05-05 23:51:24.372727 UTC
+    This file generated on 2022-05-06 23:51:29.949858 UTC
 
