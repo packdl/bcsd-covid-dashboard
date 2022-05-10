@@ -39,6 +39,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-05-10
+    Most recent date with data is 2022-05-09
+
+
 
 | School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -55,10 +59,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 | School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | St Stephen Middle      | 2022-05-09 00:00:00 |             2 |               1 |                      0 |                        0 |
-| Cane Bay High          | 2022-05-09 00:00:00 |             1 |               5 |                      0 |                        0 |
 | Mount Holly Elementary | 2022-05-09 00:00:00 |             1 |               1 |                      0 |                        0 |
 | Central Offices        | 2022-05-09 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Timberland High        | 2022-05-09 00:00:00 |             0 |               1 |                      0 |                        0 |
+| Cane Bay High          | 2022-05-09 00:00:00 |             1 |               5 |                      0 |                        0 |
+| Maintenance            | 2022-05-09 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -692,5 +696,5 @@ On 2022-05-05 Student Count: 0. Staff Count: 0
 Difference between 2022-05-09 and 2022-05-05. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-05-09 23:51:35.244133 UTC
+    This file generated on 2022-05-10 23:51:38.134601 UTC
 
