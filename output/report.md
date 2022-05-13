@@ -42,7 +42,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2022-05-12
+    Data is not available for today: 2022-05-13
     Most recent date with data is 2022-05-11
 
 
@@ -50,10 +50,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 | School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
 | Cane Bay High       | 2022-05-11 00:00:00 |             0 |               5 |                      0 |                        0 |
-| Foxbank Elementary  | 2022-05-11 00:00:00 |             0 |               2 |                      0 |                        0 |
-| Hanahan Elementary  | 2022-05-11 00:00:00 |             0 |               2 |                      0 |                        0 |
-| Cane Bay Elementary | 2022-05-11 00:00:00 |             0 |               2 |                      0 |                        0 |
 | Marrington Middle   | 2022-05-11 00:00:00 |             0 |               2 |                      0 |                        0 |
+| Hanahan Elementary  | 2022-05-11 00:00:00 |             0 |               2 |                      0 |                        0 |
+| Foxbank Elementary  | 2022-05-11 00:00:00 |             0 |               2 |                      0 |                        0 |
+| Cane Bay Elementary | 2022-05-11 00:00:00 |             0 |               2 |                      0 |                        0 |
 
 
 ### By Staff Count
@@ -61,11 +61,11 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 | School                | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Central Offices       | 2022-05-11 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Stratford High        | 2022-05-11 00:00:00 |             1 |               0 |                      0 |                        0 |
 | Hanahan High          | 2022-05-11 00:00:00 |             1 |               0 |                      0 |                        0 |
 | Daniel Island School  | 2022-05-11 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Stratford High        | 2022-05-11 00:00:00 |             1 |               0 |                      0 |                        0 |
 | Marrington Elementary | 2022-05-11 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Nexton Elementary     | 2022-05-11 00:00:00 |             1 |               1 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -699,5 +699,5 @@ On 2022-05-09 Student Count: 0. Staff Count: 0
 Difference between 2022-05-11 and 2022-05-09. Student Count: 1. Staff Count: 0
 
 
-    This file generated on 2022-05-12 23:52:22.833245 UTC
+    This file generated on 2022-05-13 23:52:29.668153 UTC
 
