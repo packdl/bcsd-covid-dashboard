@@ -42,6 +42,10 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
+    Data is not available for today: 2022-05-17
+    Most recent date with data is 2022-05-16
+
+
 
 | School               | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:---------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
@@ -627,9 +631,9 @@ Difference between 2022-05-16 and 2022-05-11. Student Count: 0. Staff Count: 0
 
 
 ### [Transportation](graphics/76.png)
+On 2022-05-16 Student Count: 0. Staff Count: 0  
 On 2022-05-11 Student Count: 0. Staff Count: 0  
-On 2022-05-09 Student Count: 0. Staff Count: 0  
-Difference between 2022-05-11 and 2022-05-09. Student Count: 0. Staff Count: 0
+Difference between 2022-05-16 and 2022-05-11. Student Count: 0. Staff Count: 0
 
 
 
@@ -695,5 +699,5 @@ On 2022-05-11 Student Count: 1. Staff Count: 0
 Difference between 2022-05-16 and 2022-05-11. Student Count: 1. Staff Count: 0
 
 
-    This file generated on 2022-05-16 23:51:36.655252 UTC
+    This file generated on 2022-05-17 23:51:48.200944 UTC
 
