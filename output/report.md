@@ -42,7 +42,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2022-05-26
+    Data is not available for today: 2022-05-27
     Most recent date with data is 2022-05-23
 
 
@@ -53,7 +53,7 @@ This notebook provides various processing and infographics on COVID dashboard re
 | Westview Elementary   | 2022-05-23 00:00:00 |             0 |               4 |                      0 |                        0 |
 | Goose Creek High      | 2022-05-23 00:00:00 |             0 |               4 |                      0 |                        0 |
 | Berkeley Intermediate | 2022-05-23 00:00:00 |             1 |               3 |                      0 |                        0 |
-| Philip Simmons Middle | 2022-05-23 00:00:00 |             0 |               2 |                      0 |                        1 |
+| Cane Bay Middle       | 2022-05-23 00:00:00 |             0 |               2 |                      0 |                        0 |
 
 
 ### By Staff Count
@@ -61,11 +61,11 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 | School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Daniel Island School   | 2022-05-23 00:00:00 |             2 |              10 |                      0 |                        0 |
 | Goose Creek Elementary | 2022-05-23 00:00:00 |             2 |               0 |                      0 |                        0 |
+| Daniel Island School   | 2022-05-23 00:00:00 |             2 |              10 |                      0 |                        0 |
 | Cane Bay High          | 2022-05-23 00:00:00 |             1 |               1 |                      0 |                        0 |
 | Stratford High         | 2022-05-23 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Berkeley Intermediate  | 2022-05-23 00:00:00 |             1 |               3 |                      0 |                        0 |
+| Philip Simmons High    | 2022-05-23 00:00:00 |             1 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -699,5 +699,5 @@ On 2022-05-20 Student Count: 2. Staff Count: 0
 Difference between 2022-05-23 and 2022-05-20. Student Count: 0. Staff Count: 0
 
 
-    This file generated on 2022-05-26 23:51:40.563029 UTC
+    This file generated on 2022-05-27 23:51:27.498233 UTC
 
