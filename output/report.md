@@ -42,30 +42,30 @@ This notebook provides various processing and infographics on COVID dashboard re
 
 ###  By Student Count
 
-    Data is not available for today: 2022-06-01
+    Data is not available for today: 2022-06-02
     Most recent date with data is 2022-05-31
 
 
 
 | School                 | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
 |:-----------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Cane Bay High          | 2022-05-31 00:00:00 |             1 |               2 |                      0 |                        0 |
 | Daniel Island School   | 2022-05-31 00:00:00 |             0 |               2 |                      0 |                        0 |
 | Cane Bay Middle        | 2022-05-31 00:00:00 |             0 |               2 |                      0 |                        0 |
-| Westview Middle        | 2022-05-31 00:00:00 |             0 |               1 |                      0 |                        1 |
+| Cane Bay High          | 2022-05-31 00:00:00 |             1 |               2 |                      0 |                        0 |
 | Whitesville Elementary | 2022-05-31 00:00:00 |             0 |               1 |                      0 |                        0 |
+| Nexton Elementary      | 2022-05-31 00:00:00 |             0 |               1 |                      0 |                        0 |
 
 
 ### By Staff Count
 
 
-| School                    | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
-|:--------------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
-| Stratford High            | 2022-05-31 00:00:00 |             2 |               0 |                      0 |                        0 |
-| Cane Bay High             | 2022-05-31 00:00:00 |             1 |               2 |                      0 |                        0 |
-| Berkeley Elementary       | 2022-05-31 00:00:00 |             1 |               0 |                      0 |                        0 |
-| Transportation            | 2022-05-31 00:00:00 |             0 |               0 |                      0 |                        0 |
-| Philip Simmons Elementary | 2022-05-31 00:00:00 |             0 |               0 |                      0 |                        0 |
+| School              | Date                |   Staff Count |   Student Count |   Staff Close Contacts |   Student Close Contacts |
+|:--------------------|:--------------------|--------------:|----------------:|-----------------------:|-------------------------:|
+| Stratford High      | 2022-05-31 00:00:00 |             2 |               0 |                      0 |                        0 |
+| Berkeley Elementary | 2022-05-31 00:00:00 |             1 |               0 |                      0 |                        0 |
+| Cane Bay High       | 2022-05-31 00:00:00 |             1 |               2 |                      0 |                        0 |
+| Philip Simmons High | 2022-05-31 00:00:00 |             0 |               0 |                      0 |                        0 |
+| Hanahan Elementary  | 2022-05-31 00:00:00 |             0 |               0 |                      0 |                        0 |
 
 
 ## Top 5 Highest Schools All Time
@@ -699,5 +699,5 @@ On 2022-05-23 Student Count: 2. Staff Count: 0
 Difference between 2022-05-31 and 2022-05-23. Student Count: -1. Staff Count: 0
 
 
-    This file generated on 2022-06-01 23:52:43.316175 UTC
+    This file generated on 2022-06-02 23:51:35.963283 UTC
 
